@@ -1,0 +1,68 @@
+
+--created database
+--create database product_db;
+
+--use product_db;
+
+--creating table categories
+--create table categories(id int primary key,title varchar(20),description varchar(30));
+
+--creating table products
+--create table products(id int primary key,title varchar(20),price int,description varchar(30),category int, foreign key(category) references categories(id),company varchar(20));
+
+--creating table orders
+--create table orders(id int primary key,total int,date VARCHAR(10));
+
+--creating table order_details
+--create table order_details(id int primary key,orderId int,productId int,quantity int,price float,totalPrice float,discount int,foreign key(orderId) references orders(id),foreign key(productId) references products(id));
+
+--inserting records into categories
+/*
+insert into categories(id,title,description) 
+values
+(1,'grocery','grocery items'),
+(2,'Shirt','formal shirts'),
+(3,'Shoes','sports shoes'),
+(4,'saree','Clothing');
+
+--inserting records into products table
+/*
+insert into products(id,title,price,description,category,company)
+values
+(101,'rice',100,'grocery_item',1,'basmati'),
+(102,'shirt',800,'formal shirt',2,'flipkart'),
+(103,'shoes',1000,'sports shoes',3,'nike'),
+(104,'saree',900,'shiffon saree',4,'flipkart');
+*/
+
+--inserting records into orders table
+/*
+insert into orders(id,total,date) values
+(1002,500, '20/08/2022'),
+(1003,700, '22/08/2022'),
+(1004,800, '24/08/2022'),
+(1005,500, '25/08/2022');
+*/
+
+--inserting records into order_details table
+/*
+insert into order_details(id,orderId,productId,quantity,price,totalPrice,discount) 
+VALUES 
+(112,1002,102,2,800.00,1600.00,30),
+(113,1003,103,2,600.00,1200.00,30),
+(114,1004,104,2,900.00,1600.00,30),
+(115,1002,102,4,500.00,2000.00,30);
+*/
+
+*/
+-- fetching records from categories table
+--select * from categories;
+
+-- fetching records from products table
+--select * from products;
+
+-- fetching records from orders table
+--select * from orders;
+
+-- fetching records from order_details table
+--select * from order_details;
