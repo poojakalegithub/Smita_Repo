@@ -2,7 +2,10 @@ import React from 'react'
 
 function Dashboard() {
   return (
-    <div>dashboard</div>
+    <div>
+      <button className="btn btn-dark m-3">Add Restaurant</button>
+
+    </div>
   )
 }
 

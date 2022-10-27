@@ -1,6 +1,6 @@
 
 import './App.css';
-import AddRestaurant from './component/AddRestaurant';
+import AddRestaurant from './component/OwnerRegistration';
 import HomePage from './component/HomePage';
 import Login from './component/Login';
 
@@ -8,6 +8,8 @@ import Registration from './component/Registration';
 import { Routes,Route, Link } from 'react-router-dom';
 import Navbar from './component/Navbar';
 import AdminLogin from './component/AdminLogin';
+import OwnerRegistration from './component/OwnerRegistration';
+import Dashboard from './component/Dashboard';
 
 function App() {
   return (
@@ -16,8 +18,9 @@ function App() {
       <Route path='/' element={<Navbar/>}></Route>
       <Route path='/login' element={<Login/>}></Route>
       <Route path='/user-registration' element={<Registration/>}></Route> 
-      <Route path='/addrestaurent' element={<AddRestaurant/>}></Route>
+      <Route path='/OwnerRegistration' element={<OwnerRegistration/>}></Route>
       <Route path='/adminLogin' element={<AdminLogin/>}></Route>
+      <Route path='/Dashboard' element={<Dashboard/>}></Route>
       </Routes>
       {/* <AdminLogin/> */}
      

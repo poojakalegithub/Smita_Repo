@@ -41,7 +41,6 @@ function Registration() {
         // const object = { userId,username,emailId,mobileNo,address,password }
         // setuserRegistrationArray([...userRegistrationArray, object])
         // console.log(...userRegistrationArray)  
-
         // localStorage.setItem('data',JSON.stringify(object))
         window.alert("Registration Successful")
         Navigate('/Dashboard')
@@ -50,7 +49,7 @@ function Registration() {
     return (
         <div>
             <div className=" col d-flex justify-content-center m-2">
-                <div className="border border-primary p-5">
+                <div className="border border-success p-5">
                     <h3>User Registration </h3>
                     <label className="m-1 row">User Id : </label>
                     <input type='number' value={userId} onChange={onChangeuserId} className="m-1 row form-control" placeholder='Enter user-ID' required></input>
@@ -65,7 +64,7 @@ function Registration() {
                     <label className="m-1 row">Password :</label>
                     <input type='text' value={password} onChange={onChangePassword} className="m-1 row form-control" placeholder='Enter Password  ' required></input>
                     <div className="text-center">
-                        <button className="row mt-2 btn btn-success row " onClick={onSubmit} type='submit'>Add Restaurant</button>
+                        <button className="row mt-2 btn btn-success row " onClick={onSubmit} type='submit'>Register</button>
                     </div>
                 </div>
             </div>

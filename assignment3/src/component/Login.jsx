@@ -1,12 +1,11 @@
 import React from 'react'
 import { useState } from 'react'
-import { Navigate, useNavigate } from 'react-router-dom'
+import { Link, Navigate, useNavigate } from 'react-router-dom'
 
 function Login() {
   // const username = JSON.parse(localStorage.getItem('username'));
   // const userpassword = JSON.parse(localStorage.getItem('password'));
   
-
   const username = localStorage.getItem('UserName');
   const userpassword = localStorage.getItem('Userpassword')
 
@@ -39,16 +38,17 @@ function Login() {
 
   return (
     <div><div className=" col d-flex justify-content-center m-2">
-      <div className="border border-primary p-5">
+      <div className="border border-success p-5">
         <h3>Login </h3>
         <label className="m-1 row">User name : </label>
         <input type='text' value={uname} onChange={onChangeUName} className="m-1 row form-control" placeholder='Enter user-ID' required></input>
         <label className="m-1 row">Password :</label>
         <input type='text' value={upassword} onChange={onChangeupassword} className="m-1 row form-control" placeholder='Enter Password  ' required></input>
         <div className="text-center">
-          <button className="row mt-2 btn btn-success row " onClick={onSubmit} type='submit'>Add Restaurant</button>
+          <button className="row mt-2 btn btn-success row " onClick={onSubmit} type='submit'>Login</button>
         </div>
-
+        
+        <h6>Don't have account ? <Link to="/user-registration"> Sign Up</Link></h6>
       </div>
     </div></div>
   )

@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link, Route, Routes} from 'react-router-dom';
-import AddRestaurant from './AddRestaurant';
+import AddRestaurant from './OwnerRegistration';
 import HomePage from './HomePage';
 import Login from './Login';
 
@@ -16,11 +16,11 @@ function Navbar() {
   <div className="collapse navbar-collapse" id="navbarText">
     <ul className="navbar-nav mr-auto">
       <li className="nav-item active">
-        <Link className="nav-link" to='/adminLogin'>Admin Login </Link>
+        <Link className="nav-link" to='/adminLogin'>Add Restaurant </Link>
       </li>
-      <li className="nav-item">
-        <Link className="nav-link" to='/addrestaurent'>Add Restaurant</Link>
-      </li>
+      {/* <li className="nav-item">
+        <Link className="nav-link" to='/OwnerRegistration'>Admin Registration</Link>
+      </li> */}
       <li className="nav-item">
         <Link className="nav-link" to="/login">Login</Link>
       </li>
