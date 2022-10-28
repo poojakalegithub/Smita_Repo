@@ -68,7 +68,7 @@ const Posts = (props) => {
     }
     return (
         <div>
-            <div class="bg-black col d-flex justify-content-center m-2">
+            <div class="col d-flex justify-content-center m-2">
                 <div class="border border-primary p-5">
                     <h3>Create New Post</h3>
                     <label className="m-1 row">User Id : </label>

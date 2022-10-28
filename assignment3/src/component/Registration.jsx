@@ -34,19 +34,19 @@ function Registration() {
     };
     
     function onSubmit() {
-        // localStorage.setItem('UserId', userId)
-        // localStorage.setItem('UserName', username)
-        // localStorage.setItem('UserEmail', emailId)
-        // localStorage.setItem('Usermobile', mobileNo)
-        // localStorage.setItem('Useraddress', address)
-        // localStorage.setItem('Userpassword', password)
+        localStorage.setItem('UserId', userId)
+        localStorage.setItem('UserName', username)
+        localStorage.setItem('UserEmail', emailId)
+        localStorage.setItem('Usermobile', mobileNo)
+        localStorage.setItem('Useraddress', address)
+        localStorage.setItem('Userpassword', password)
         window.alert("Registration Successful")
         navigate('/Login')
-        setuserRegistrationArray(localStorage.setItem('UserId','UserName','UserEmail','Usermobile','Useraddress','Userpassword'))
+        // setuserRegistrationArray(localStorage.setItem('UserId','UserName','UserEmail','Usermobile','Useraddress','Userpassword'))
         // setuserRegistrationArray(localStorage.setItem('UserId',userId),localStorage.setItem)
-        // const object = { userId,username,emailId,mobileNo,address,password }
-        // setuserRegistrationArray([...userRegistrationArray, object])
-        // console.log(...userRegistrationArray)  
+        const object = { userId,username,emailId,mobileNo,address,password }
+        setuserRegistrationArray([...userRegistrationArray, object])
+        console.log(...userRegistrationArray)  
         // localStorage.setItem('data',JSON.stringify(object))
         // window.alert("Registration Successful")
         // navigate('/Login')

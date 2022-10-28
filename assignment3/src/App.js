@@ -1,7 +1,6 @@
 
 import './App.css';
 import AddRestaurant from './component/OwnerRegistration';
-import HomePage from './component/HomePage';
 import Login from './component/Login';
 
 import Registration from './component/Registration';
@@ -11,7 +10,8 @@ import AdminLogin from './component/AdminLogin';
 import OwnerRegistration from './component/OwnerRegistration';
 import Dashboard from './component/Dashboard';
 import RestaurantAdd from './component/RestaurantAdd';
-
+import Add from './component/Add';
+import ShowRestaurantInTable from './component/RestaurantList';
 function App() {
   return (
     <div>
@@ -24,6 +24,8 @@ function App() {
       <Route path='/adminLogin' element={<AdminLogin/>}></Route>
       <Route path='/Dashboard' element={<Dashboard/>}></Route>
       <Route path='/RestaurantAdd' element={<RestaurantAdd/>}></Route>
+      <Route path='/Add' element={<Add/>}></Route>
+      <Route path='/RestaurantList' element={<ShowRestaurantInTable/>}></Route>
       </Routes>
       {/* <AdminLogin/> */}
      
