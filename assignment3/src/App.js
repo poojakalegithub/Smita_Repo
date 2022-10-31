@@ -1,6 +1,6 @@
 
 import './App.css';
-import AddRestaurant from './component/OwnerRegistration';
+
 import Login from './component/Login';
 
 import Registration from './component/Registration';
@@ -11,11 +11,13 @@ import OwnerRegistration from './component/OwnerRegistration';
 import Dashboard from './component/Dashboard';
 import RestaurantAdd from './component/RestaurantAdd';
 import Add from './component/Add';
-import ShowRestaurantInTable from './component/RestaurantList';
+import ShowUserData from './component/ShowUserData';
+import UserPanel from './component/UserPanel/UserPanel';
+import Rooms from './component/UserPanel/Rooms';
+
 function App() {
   return (
     <div>
-      
       <Routes>
       <Route path='/' element={<Navbar/>}></Route>
       <Route path='/login' element={<Login/>}></Route>
@@ -25,7 +27,10 @@ function App() {
       <Route path='/Dashboard' element={<Dashboard/>}></Route>
       <Route path='/RestaurantAdd' element={<RestaurantAdd/>}></Route>
       <Route path='/Add' element={<Add/>}></Route>
-      <Route path='/RestaurantList' element={<ShowRestaurantInTable/>}></Route>
+      <Route path='/ShowUserData' element={<ShowUserData/>}></Route>
+      <Route path='/UserPanel' element={<UserPanel/>}></Route>
+      <Route path='/Rooms' element={<Rooms/>}></Route>
+     
       </Routes>
       {/* <AdminLogin/> */}
      

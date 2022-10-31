@@ -12,8 +12,8 @@ function Registration() {
     const [password, setPassword] = useState('')
     const navigate=useNavigate();
     const [userRegistrationArray, setuserRegistrationArray] = useState('')
-    
 
+    console.log(userRegistrationArray)
     const onChangeuserId = (e) => {
         setuserId(e.target.value);
     };
@@ -42,14 +42,7 @@ function Registration() {
         localStorage.setItem('Userpassword', password)
         window.alert("Registration Successful")
         navigate('/Login')
-        // setuserRegistrationArray(localStorage.setItem('UserId','UserName','UserEmail','Usermobile','Useraddress','Userpassword'))
-        // setuserRegistrationArray(localStorage.setItem('UserId',userId),localStorage.setItem)
-        const object = { userId,username,emailId,mobileNo,address,password }
-        setuserRegistrationArray([...userRegistrationArray, object])
-        console.log(...userRegistrationArray)  
-        // localStorage.setItem('data',JSON.stringify(object))
-        // window.alert("Registration Successful")
-        // navigate('/Login')
+        
     }
 
     return (
@@ -68,7 +61,7 @@ function Registration() {
                     <label className="m-1 row">Address : </label>
                     <input type='text' value={address} onChange={onChangeAddress} className="m-1 row form-control" placeholder='Enter Address' required></input>
                     <label className="m-1 row">Password :</label>
-                    <input type='text' value={password} onChange={onChangePassword} className="m-1 row form-control" placeholder='Enter Password  ' required></input>
+                    <input type='password' value={password} onChange={onChangePassword} className="m-1 row form-control" placeholder='Enter Password  ' required></input>
                     <div className="text-center">
                         <button className="row mt-2 btn btn-success row " onClick={onSubmit} type='submit'>Register</button>
                     </div>

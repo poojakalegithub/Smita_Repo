@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
 
 function RestaurantAdd() {
-
     const [restaurantName, setrestaurantName] = useState('')
     const [mobileNo, setmobileNo] = useState('')
     const [address, setaddress] = useState('')

@@ -69,7 +69,7 @@ return (
                   <label className="m-1 row">Address : </label>
                   <input type='text' value={address} onChange={onChangeAddress} className="m-1 row form-control" placeholder='Enter Address' required></input>
                   <label className="m-1 row">Password :</label>
-                  <input type='text' value={password} onChange={onChangePassword} className="m-1 row form-control" placeholder='Enter Password  ' required></input>
+                  <input type='password' value={password} onChange={onChangePassword} className="m-1 row form-control" placeholder='Enter Password  ' required></input>
                   <div className="text-center">
                       <button className="row mt-2 btn btn-success row " onClick={onSubmit} type='submit'>Register</button>
                   </div>
