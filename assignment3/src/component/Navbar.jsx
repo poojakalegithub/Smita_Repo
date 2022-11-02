@@ -2,14 +2,12 @@ import React from 'react'
 import { Link, Route, Routes } from 'react-router-dom';
 import AddRestaurant from './OwnerRegistration';
 import Login from './Login';
-import array from './Add';
 import RestaurantData from './RestaurantData.json';
-import TodoList from './Add'
 import ShowUserData from './ShowUserData';
 function Navbar() {
-  const img1=require('./UserPanel/hotel.jpg')
-  const img2=require('./UserPanel/hotel2.jpg')
-  const img3=require('./UserPanel/hotel3.jpg')
+  const img1 = require('./UserPanel/hotel.jpg')
+  const img2 = require('./UserPanel/hotel2.jpg')
+  const img3 = require('./UserPanel/hotel3.jpg')
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-light navbar-dark bg-dark ">
@@ -32,46 +30,35 @@ function Navbar() {
         </div>
       </nav>
 
+      <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src={img2} className="d-block w-100 " alt="..." />
+          </div>
+          <div class="carousel-item">
+            <img src={img2} class="d-block w-100" alt="..." />
+          </div>
 
-{/* //Adding carousal */}
-
-<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="true">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-  </div>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src={img2} className="d-block w-100 " alt="..."/>
-    </div>
-    <div class="carousel-item">
-      <img src={img2} class="d-block w-100" alt="..."/>
-    </div>
-    
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-
-
-
-
-
-     <div>
-      {<ShowUserData/>}
-     </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
       <div>
-        <div><br/>
+        <div><br />
           <h4><i>Available Hotels on Our Website</i></h4>
-          <hr/>
-          <br/>
+          <hr />
+          <br />
           <table class="container table table-striped table-hover ">
             <thead>
               <th>ID</th>
@@ -87,7 +74,7 @@ function Navbar() {
                     <td>{values.title}</td>
                     <td>{values.address}</td>
                     <td>{values.MobNo}</td>
-                   
+
                   </tr>
                 )
               })}
@@ -95,7 +82,7 @@ function Navbar() {
           </table>
 
         </div>
-            
+
       </div>
     </div>
 

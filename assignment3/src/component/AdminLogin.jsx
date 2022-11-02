@@ -3,14 +3,17 @@ import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 
 function AdminLogin() {
-  
+
+  //fetching registration values
   const adminname = localStorage.getItem('UserName');
   const adminpassword = localStorage.getItem('Userpassword')
 
+  //Declaring use state variables
   const [aname, setaName] = useState('')
   const [apassword, setapassword] = useState('')
   const navigate = useNavigate();
 
+  //setting current state value
   const onChangeUName = (e) => {
     setaName(e.target.value);
   };
@@ -18,8 +21,8 @@ function AdminLogin() {
     setapassword(e.target.value);
   };
 
+  //function to call after on click of login button 
   const onSubmit = () => {
-
     if (adminname === aname && adminpassword === apassword) {
       window.alert("Login Successfull..!")
       navigate('/Dashboard')

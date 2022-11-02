@@ -10,7 +10,7 @@ function Registration() {
     const [mobileNo, setmobileNo] = useState('')
     const [address, setaddress] = useState('')
     const [password, setPassword] = useState('')
-    const navigate=useNavigate();
+    const navigate = useNavigate();
     const [userRegistrationArray, setuserRegistrationArray] = useState('')
 
     console.log(userRegistrationArray)
@@ -32,7 +32,7 @@ function Registration() {
     const onChangePassword = (e) => {
         setPassword(e.target.value)
     };
-    
+
     function onSubmit() {
         localStorage.setItem('UserId', userId)
         localStorage.setItem('UserName', username)
@@ -42,7 +42,7 @@ function Registration() {
         localStorage.setItem('Userpassword', password)
         window.alert("Registration Successful")
         navigate('/Login')
-        
+
     }
 
     return (
