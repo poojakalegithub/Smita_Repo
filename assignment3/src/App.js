@@ -17,6 +17,7 @@ import AddRestaurants from './component/AddRestaurants';
 import ShowAddedHotels from './component/ShowAddedHotels';
 import AvailableHotels from './component/AvailableHotels';
 import AdminNavbar from './component/AdminNavbar';
+import Footer from './component/Footer';
 function App() {
   return (
     <div>
@@ -39,6 +40,7 @@ function App() {
         <Route path='/ShowAddedhotels' element={<ShowAddedHotels />}></Route>
         <Route path='/AvailableHotels' element={<AvailableHotels/>}></Route>
         <Route path='/AdminNavbar' element={<AdminNavbar/>}></Route>
+        <Route path='/Footer' element={<Footer/>}></Route>
       </Routes>
       {/* <AdminLogin/> */}
 

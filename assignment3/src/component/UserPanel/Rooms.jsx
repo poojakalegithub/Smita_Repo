@@ -1,14 +1,17 @@
 import React from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import AvailableHotels from '../AvailableHotels';
+import Footer from '../Footer';
 import UserPanelNavbar from './UserPanelNavbar';
 
 const Rooms = () => {
   const navigate = useNavigate();
+  //Function to call on click of book hotel button
   const onClickBookHotel = () => {
     navigate('/BookRoom')
   }
   
+  //storing images using require method
   const img1 = require('./img1.jpeg')
   const img2 = require('./img2.jpeg')
   const img3 = require('./img3.jpeg')
@@ -122,9 +125,9 @@ const Rooms = () => {
           </div>
 
         </div>
+          <Footer/>
 
       </div>
-
 
     </>
   )

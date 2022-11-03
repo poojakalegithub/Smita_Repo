@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
+import Footer from '../Footer';
 import UserPanelNavbar from './UserPanelNavbar';
 
 function CancelBooking() {
@@ -10,6 +11,7 @@ function CancelBooking() {
     const email=localStorage.getItem('UserEmail')
     const navigate=useNavigate();
 
+    //setting reason value to state variable
     const onChangeReason=(e)=>{
         setReason(e.target.value)
     }
@@ -33,7 +35,7 @@ function CancelBooking() {
     <UserPanelNavbar/>
       <div className=" col d-flex justify-content-center m-2">
                  <div className="border border-success p-5">
-                    <h3>Cancel Booking </h3>
+                    <h3 className='text-center'>Cancel Booking </h3>
                     <input type='textbox' value={reason} onChange={onChangeReason} className="m-1 row form-control" placeholder='reason to cancel booking ' required></input>
                     <div className="text-center">
                         <button className="row mt-2 btn btn-success row " onClick={onSubmit} type='submit'>Cancel Booking</button>
@@ -41,6 +43,8 @@ function CancelBooking() {
                     
                 </div>
             </div>
+            <Footer/>
+
     </div>
   )
   }

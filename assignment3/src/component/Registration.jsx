@@ -1,7 +1,8 @@
 import React from 'react'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-
+import Footer from './Footer'
+import validator from 'validator'
 function Registration() {
 
     const [userId, setuserId] = useState('')
@@ -11,9 +12,7 @@ function Registration() {
     const [address, setaddress] = useState('')
     const [password, setPassword] = useState('')
     const navigate = useNavigate();
-    const [userRegistrationArray, setuserRegistrationArray] = useState('')
 
-    console.log(userRegistrationArray)
     const onChangeuserId = (e) => {
         setuserId(e.target.value);
     };
@@ -34,6 +33,11 @@ function Registration() {
     };
 
     function onSubmit() {
+        if (validator.isStrongPassword(password, {
+            minLength: 8, minLowercase: 1,
+            minUppercase: 1, minNumbers: 1, minSymbols: 1
+          })) 
+          {
         localStorage.setItem('UserId', userId)
         localStorage.setItem('UserName', username)
         localStorage.setItem('UserEmail', emailId)
@@ -42,14 +46,18 @@ function Registration() {
         localStorage.setItem('Userpassword', password)
         window.alert("Registration Successful")
         navigate('/Login')
+          }
+          else {
+            window.alert(' Please set a Strong Password')
+          }
 
     }
 
     return (
         <div>
-            <div className=" col d-flex justify-content-center m-2">
-                <div className="border border-success p-5">
-                    <h3>User Registration </h3>
+            <div className=" col d-flex justify-content-center m-4">
+                <div className="border border-info p-5">
+                    <h3 className='text-center'>User Registration </h3><br />
                     <label className="m-1 row">User Id : </label>
                     <input type='number' value={userId} onChange={onChangeuserId} className="m-1 row form-control" placeholder='Enter user-ID' required></input>
                     <label className="m-1 row">User Name : </label>
@@ -62,11 +70,19 @@ function Registration() {
                     <input type='text' value={address} onChange={onChangeAddress} className="m-1 row form-control" placeholder='Enter Address' required></input>
                     <label className="m-1 row">Password :</label>
                     <input type='password' value={password} onChange={onChangePassword} className="m-1 row form-control" placeholder='Enter Password  ' required></input>
-                    <div className="text-center">
-                        <button className="row mt-2 btn btn-success row " onClick={onSubmit} type='submit'>Register</button>
+                    <br /><div className="text-center">
+                        <button className="row mt-2 btn btn-info row " onClick={onSubmit} type='submit'>Register</button>
                     </div>
+
                 </div>
+
             </div>
+            <br></br>
+            <br></br>
+            <br />
+            <Footer />
+
+
         </div>
     )
 }

@@ -11,14 +11,12 @@ function UserPanelNavbar() {
       </button>
       <div className="collapse navbar-collapse" id="navbarText">
         <ul className="navbar-nav mr-auto">
-          <li className="nav-item active">
-            <Link className="nav-link" to='/ShowUserData'>Users List </Link>
-          </li>
+        
           <li className="nav-item">
             <Link className="nav-link" to="/Rooms">Rooms</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link" to="/BookRoom">Book Rooms</Link>
+            <Link className="nav-link" to="/BookRoom">Book a Room</Link>
           </li>
           <li className="nav-item">
             <Link className="nav-link" to="/BookedHotels">Booked Rooms</Link>

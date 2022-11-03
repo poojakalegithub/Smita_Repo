@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import AdminDashboardnavbar from './AdminDashboardnavbar'
+import Footer from './Footer'
 
 const ShowAddedHotels = () => {
     const navigate = useNavigate()
@@ -36,7 +37,7 @@ const ShowAddedHotels = () => {
         <div>
            <AdminDashboardnavbar/>
             <div >
-                <h3>Available Restaurants</h3>
+                <h3 className='text-center'>Available Restaurants</h3>
                 <div className="container border p-2">
 
                     <table class="table table-striped table-hover">
@@ -85,6 +86,7 @@ const ShowAddedHotels = () => {
                 </div>
 
             </div>
+            <Footer/>
         </div>
     )
 }

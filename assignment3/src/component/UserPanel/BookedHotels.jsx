@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import Footer from '../Footer'
 import CancelBooking from './CancelBooking'
 import UserPanelNavbar from './UserPanelNavbar'
 
@@ -31,12 +32,12 @@ const BookedHotels = () => {
     return (
         <div>
             <UserPanelNavbar />
-            <h3>Booked Hotels</h3>
+            <h3 className='text-center mt-2'>Booked Hotels</h3>
             <div className="container border p-3">
-                <table class="table table-secondary">
+                <table class="table table-striped">
                     <thead>
                         <th scope="col">BookingId</th>
-                        <th scope="col">Hotel Name</th>
+                        <th scope="col">No. of people</th>
                         <th scope="col">Rooms to book</th>
                     </thead>
                     <tbody>
@@ -47,7 +48,7 @@ const BookedHotels = () => {
 
                                         <tr scope="row">
                                             <td>{values.bookingId}</td>
-                                            <td>{values.username}</td>
+                                            <td>{values.mobile}</td>
                                             <td>{values.room}</td>
                                             <button onClick={() => handleDelete(values.bookingId)} className="btn btn-dark ">Cancel Booking</button>
                                         </tr>
@@ -58,6 +59,8 @@ const BookedHotels = () => {
                     </tbody>
                 </table>
             </div>
+            <Footer/>
+
         </div>
     )
 }

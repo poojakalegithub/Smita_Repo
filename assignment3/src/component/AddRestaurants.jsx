@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import AdminDashboardnavbar from './AdminDashboardnavbar';
 import AdminNavbar from './AdminNavbar';
+import Footer from './Footer';
 
 function AddRestaurants() {
 
@@ -59,7 +60,7 @@ function AddRestaurants() {
             <AdminDashboardnavbar/>
             <div class="col d-flex justify-content-center m-4">
                 <div class="border border-primary p-5">
-                    <h3>Add Restaurant</h3>
+                    <h3 className='text-center'>Add Restaurant</h3>
                     <label className="m-1 row">Restaurant Id : </label>
                     <input type='number' value={RestaurantId} onChange={onChangeRestaurantId} class="m-1 row form-control" placeholder='Enter Restaurant Id'></input>
                     <label className="m-1 row">Restaurant Name : </label>
@@ -75,7 +76,7 @@ function AddRestaurants() {
                     </div>
                 </div>
             </div>
-
+            <Footer/>
         </div>
     )
 }

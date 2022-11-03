@@ -4,6 +4,8 @@ import AddRestaurant from './OwnerRegistration';
 import Login from './Login';
 import RestaurantData from './RestaurantData.json';
 import ShowUserData from './ShowUserData';
+import Footer from './Footer';
+
 function Navbar() {
   const img1 = require('./UserPanel/hotel.jpg')
   const img2 = require('./UserPanel/hotel2.jpg')
@@ -37,6 +39,7 @@ function Navbar() {
           <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
         </div>
         <div class="carousel-inner">
+
           <div class="carousel-item active">
             <img src={img2} className="d-block w-100 " alt="..." />
           </div>
@@ -55,34 +58,7 @@ function Navbar() {
         </button>
       </div>
       <div>
-        <div><br />
-          <h4><i>Available Hotels on Our Website</i></h4>
-          <hr />
-          <br />
-          <table class="container table table-striped table-hover ">
-            <thead>
-              <th>ID</th>
-              <th>Title</th>
-              <th>Address</th>
-              <th>Contact</th>
-            </thead>
-            <tbody>
-              {RestaurantData.map((values) => {
-                return (
-                  <tr>
-                    <td>{values.id}</td>
-                    <td>{values.title}</td>
-                    <td>{values.address}</td>
-                    <td>{values.MobNo}</td>
-
-                  </tr>
-                )
-              })}
-            </tbody>
-          </table>
-
-        </div>
-
+        <Footer/>
       </div>
     </div>
 

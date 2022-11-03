@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
 import { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
+import Footer from './Footer'
 
 const AvailableHotels = () => {
     const navigate = useNavigate()
@@ -32,7 +33,7 @@ const AvailableHotels = () => {
         <div>
            
             <div >
-                <h3>Available Restaurants</h3>
+                <h3 className='text-center mt-2'>Available Restaurants</h3>
                 <div className="container border p-2">
 
                     <table class="table table-striped table-hover">
@@ -77,6 +78,7 @@ const AvailableHotels = () => {
                 </div>
 
             </div>
+            <Footer/>
         </div>
     )
 }
