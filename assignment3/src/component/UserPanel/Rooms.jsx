@@ -10,7 +10,7 @@ const Rooms = () => {
   const onClickBookHotel = () => {
     navigate('/BookRoom')
   }
-  
+
   //storing images using require method
   const img1 = require('./img1.jpeg')
   const img2 = require('./img2.jpeg')

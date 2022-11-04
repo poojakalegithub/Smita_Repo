@@ -18,6 +18,7 @@ import ShowAddedHotels from './component/ShowAddedHotels';
 import AvailableHotels from './component/AvailableHotels';
 import AdminNavbar from './component/AdminNavbar';
 import Footer from './component/Footer';
+import Counter from './component/Counter';
 function App() {
   return (
     <div>
@@ -29,7 +30,6 @@ function App() {
         <Route path='/adminLogin' element={<AdminLogin />}></Route>
         <Route path='/Dashboard' element={<Dashboard />}></Route>
         <Route path='/AddRestaurants' element={<AddRestaurants />}></Route>
-
         <Route path='/ShowUserData' element={<ShowUserData />}></Route>
         <Route path='/UserPanel' element={<UserPanel />}></Route>
         <Route path='/Rooms' element={<Rooms />}></Route>
@@ -41,6 +41,7 @@ function App() {
         <Route path='/AvailableHotels' element={<AvailableHotels/>}></Route>
         <Route path='/AdminNavbar' element={<AdminNavbar/>}></Route>
         <Route path='/Footer' element={<Footer/>}></Route>
+        <Route path='/counter' element={<Counter/>}></Route>
       </Routes>
       {/* <AdminLogin/> */}
 

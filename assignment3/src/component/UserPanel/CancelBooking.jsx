@@ -39,8 +39,7 @@ function CancelBooking() {
                     <input type='textbox' value={reason} onChange={onChangeReason} className="m-1 row form-control" placeholder='reason to cancel booking ' required></input>
                     <div className="text-center">
                         <button className="row mt-2 btn btn-success row " onClick={onSubmit} type='submit'>Cancel Booking</button>
-                    </div>
-                    
+                    </div>   
                 </div>
             </div>
             <Footer/>

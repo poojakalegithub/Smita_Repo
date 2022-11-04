@@ -43,7 +43,6 @@ function Login() {
       // navigate('/dashboard')
     }
   }
-
   return (
     <div className='hotel'>
       <div className=" col d-flex justify-content-center m-2">
