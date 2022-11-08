@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\smita.pradhan\\source\\repos\\PracticeCSharp\\PracticeCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\smita.pradhan\\source\\repos\\Smita_Repo\\PracticeCSharp\\PracticeCSharp.csproj",
       "projectName": "PracticeCSharp",
-      "projectPath": "C:\\Users\\smita.pradhan\\source\\repos\\PracticeCSharp\\PracticeCSharp.csproj",
+      "projectPath": "C:\\Users\\smita.pradhan\\source\\repos\\Smita_Repo\\PracticeCSharp\\PracticeCSharp.csproj",
       "packagesPath": "C:\\Users\\smita.pradhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\smita.pradhan\\source\\repos\\PracticeCSharp\\obj\\",
+      "outputPath": "C:\\Users\\smita.pradhan\\source\\repos\\Smita_Repo\\PracticeCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\smita.pradhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
