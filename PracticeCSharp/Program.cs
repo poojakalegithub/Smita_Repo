@@ -55,6 +55,7 @@ namespace PracticeCSharp
             //creating object of Emailvalidation class
             Assignments.EmailValidation emailobj = new Assignments.EmailValidation();
             emailobj.validateEmail();
+            emailobj.ValidateUsingRegex();
 
             Console.WriteLine("_______________________________________________________");
             //creating object of countriesEnum class
@@ -86,9 +87,7 @@ namespace PracticeCSharp
 
             //Creating object of emplyee class and passing parameters
             Assignments.Employee emp = new Assignments.Employee(Fname,Lname,age,jobTitle,salary);
-
-            
-            
+            Console.ReadLine();
         }
     }
 }
