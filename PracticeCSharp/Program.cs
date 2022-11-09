@@ -8,7 +8,7 @@ namespace PracticeCSharp
     {
         static void Main(String[] args)
         {
-            
+            /*
             //variable declaration
             int num1 = 10;
             int num2 = 20;
@@ -88,6 +88,48 @@ namespace PracticeCSharp
             //Creating object of emplyee class and passing parameters
             Assignments.Employee emp = new Assignments.Employee(Fname,Lname,age,jobTitle,salary);
             Console.ReadLine();
+            
+
+            //Creating object
+            Assignment2.ValidatioUsingRegex regexObj = new Assignment2.ValidatioUsingRegex();
+            regexObj.ValidateUsingRegex();
+
+            */
+            
+            /*
+            //creating object
+            Assignment2.ErrorHandling errorObj = new Assignment2.ErrorHandling();
+            
+            //Default Exceptions
+            errorObj.HandlingNullReferenceException();
+            Console.WriteLine("_______________________________________________________");
+            
+            errorObj.HandlingDivideByZeroException();
+            Console.WriteLine("_______________________________________________________");
+            
+            //User defined Exceptopn
+            Assignment2.UserDefinedException userObj=new Assignment2.UserDefinedException();
+            userObj.divide();
+            Console.WriteLine("_______________________________________________________");
+
+            //To Read File
+            Assignment2.ReadFile fileobj=new Assignment2.ReadFile();    
+            fileobj.readfile();
+            */
+
+            //To sort Employees list based on salary
+            Assignment2.Employee emp=new Assignment2.Employee();
+            emp.sortEmp();
+            Assignment2.EmployeeList empobj = new Assignment2.EmployeeList();
+            empobj.showEmployee();
+
+
+            Assignment2.Student stdObj = new Assignment2.Student("Job",10,6);
+
+
+
+            
+
         }
     }
 }

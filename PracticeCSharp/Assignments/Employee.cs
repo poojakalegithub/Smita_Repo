@@ -21,9 +21,10 @@ namespace PracticeCSharp.Assignments
             public void EmployeeDetails()
             {
             Console.WriteLine("------------------------------------------");
-            showData();
             Console.WriteLine("Job title :", JobTitle);
-            Console.WriteLine("Salary :",Salary);
+            Console.WriteLine("Salary :", Salary);
+            showData();
+            
             }
             
             

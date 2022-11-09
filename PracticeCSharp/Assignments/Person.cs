@@ -32,6 +32,8 @@ namespace PracticeCSharp.Assignments
             Console.WriteLine("------------------------------------------");
            Console.WriteLine("Full Name : " + FullName);
             Console.WriteLine("Age : "+Age);
+            return;
+            
         }
     }
 }
