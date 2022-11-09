@@ -10,14 +10,17 @@ namespace PracticeCSharp.Assignments
     {
         public void showData()
         {
-        Console.WriteLine("Enter Country Name");
-        String Country=Console.ReadLine();    
+        Console.WriteLine("Enter Country Name:");
+        //to take input from user
+        String Country=Console.ReadLine();  
+
+        //to convert user input into upper case
         String res=Country.ToUpper();
 
             switch (res)
             {
                 case "INDIA":
-                    Console.WriteLine("You have selected"+countries.INDIA);
+                    Console.WriteLine("You have selected :"+countries.INDIA);
                     break;
                 case "AUSTRALIA":
                     Console.WriteLine("You have selected"+countries.AUSTRALIA);
@@ -40,7 +43,7 @@ namespace PracticeCSharp.Assignments
             }
 
         }
-
+        //declaring enum for countries
         enum countries
         {
             INDIA, AUSTRALIA, USA, JAPAN, FRANCE, ENGLAND

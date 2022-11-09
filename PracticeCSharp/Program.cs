@@ -1,5 +1,6 @@
 ﻿using PracticeCSharp.Assignments;
 using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace PracticeCSharp
 {
@@ -7,7 +8,7 @@ namespace PracticeCSharp
     {
         static void Main(String[] args)
         {
-            /*
+            
             //variable declaration
             int num1 = 10;
             int num2 = 20;
@@ -27,17 +28,17 @@ namespace PracticeCSharp
             Console.WriteLine("Division is:"+divide);
 
             Console.WriteLine("_______________________________________________________");
-
+            //Creating object
             PracticeCode.ifelsedemo ifelseobj = new PracticeCode.ifelsedemo();
             ifelseobj.FindGreaterNumber();
 
             Console.WriteLine("_______________________________________________________");
-
+            //creating object 
             PracticeCode.forloop forObj = new PracticeCode.forloop();
             forObj.printTable();
 
             Console.WriteLine("_______________________________________________________");
-
+            //creating object of StringOperations class
             Assignments.StringOperations StringObj=new Assignments.StringOperations();
             StringObj.concatStrings();
 
@@ -51,68 +52,42 @@ namespace PracticeCSharp
             StringObj.reverse();
 
             Console.WriteLine("_______________________________________________________");
+            //creating object of Emailvalidation class
             Assignments.EmailValidation emailobj = new Assignments.EmailValidation();
             emailobj.validateEmail();
 
+            Console.WriteLine("_______________________________________________________");
+            //creating object of countriesEnum class
             Assignments.countriesEnum enumobj = new Assignments.countriesEnum();
             enumobj.showData();
-            */
-           
-           List<BankDetails> bank = new List<BankDetails>();  
-            while (true)
-            {
-                Console.Write(
-                    "1. create account\n" +
-                    "2. Check balance\n" +
-                    "3. Deposit\n" +
-                    "4. Withdraw\n");
-                String operation=Console.ReadLine();
-                Console.WriteLine("\n");
 
-                if (operation == "1")
-                {
-                    Console.Write("Enter name: ");
-                    string name = Console.ReadLine();
-                    Console.Write("Type of Account Saving/Current: ");
-                    string type = Console.ReadLine();
-                    Console.Write("Enter initial balance: ");
-                    double initialBalance = double.Parse(Console.ReadLine());
-                    bank.Add(new BankDetails(name, initialBalance));
-                    Console.WriteLine("Bank Account Added!");
-                    Console.ReadLine();
-                }
-                else if(operation == "2")
-                {
-                   // Console.WriteLine("welcome to Check Balance");
-                    Console.Write("Enter name: ");
-                    string nmChk = Console.ReadLine();
-                    for (int ix = 0; ix < bank.Count; ix++)
-                    {
-                        if (bank[ix].name == nmChk)
-                        {
-                            Console.WriteLine("Account Found!\nName: {0}\nBalance: {1}", bank[ix].name, bank[ix].balance);
-                        }
-                    }
-                    Console.ReadLine();
-                }
-                else if (operation == "3")
-                {
-                    Console.WriteLine("Deposit");
-                }
-                else if(operation =="4")
-                {
-                        Console.WriteLine("Withdraw");
-                }
-                else
-                {
-                    Console.WriteLine("Invalid option");
-                    Console.ReadLine();
-                }
-                
-                
-            }
+            Console.WriteLine("_______________________________________________________");
+            Console.Write("Empoyee Information: ");
 
+            //To take User input for employee data
+            Console.Write("Enter First name: ");
+            string Fname = Console.ReadLine();
 
+            Console.Write("Enter Last name: ");
+            string Lname = Console.ReadLine();
+
+            Console.Write("Enter age: ");
+            string val = Console.ReadLine();
+            //converting string into byte
+            byte age=Convert.ToByte(val);
+
+            Console.Write("Enter Job Title: ");
+            string jobTitle = Console.ReadLine();
+
+            Console.Write("Enter Salary: ");
+            string val2 = Console.ReadLine();
+            //converting string into decimal
+            decimal salary = Convert.ToDecimal(val2);
+
+            //Creating object of emplyee class and passing parameters
+            Assignments.Employee emp = new Assignments.Employee(Fname,Lname,age,jobTitle,salary);
+
+            
             
         }
     }
