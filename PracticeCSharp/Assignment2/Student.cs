@@ -5,35 +5,41 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace PracticeCSharp.Assignment2
-
-{    
-    internal class Student
+{
+    class Student
     {
-        public Student(String name, int age, int Class)
+        int ID;
+        string Name;
+        int Age;
+        int Class;
+
+        public override string ToString()
         {
-            this.name = name;
-            this.age = age;
-            this.Class = Class;
+            return ID + "  " + Name + "   " +Age + "   " + Class;
         }
-        public String name { set; get; }
-        public int age { set; get; }
-        public int Class { set; get; }
-        public void StudentsList()
+
+        public void StudentList()
         {
-            List<Student> students = new List<Student>();
-            students.Add(new Student("John",16,10));
-            students.Add(new Student("Mark", 12, 6));
-            students.Add(new Student("Smith", 10, 5));
-            students.Add(new Student("Doe", 17, 10));
 
-            IEnumerable<Student> StudentList = from student in students select student;
+            // Creating list of type Student 
+            List<Student> stu = new List<Student>()
+    {
+        new Student{ ID = 101, Name = "Mark",Age=9,Class = 2 },
+        new Student{ ID = 102, Name = "Smith",Age=6,Class = 1 },
+        new Student{ ID = 103, Name = "John",Age=10,Class= 3},
+    };
+            IEnumerable<Student> Query = from student in stu select student;
 
-            foreach (Student e in StudentList)
+            Console.WriteLine("ID  Name  Department Semester");
+            Console.WriteLine("------------------------------");
+            foreach (Student e in Query)
             {
-                Console.WriteLine(e+"\n");
+
+                // Calling toString()
+                Console.WriteLine(e.ToString());
             }
         }
-        
-
     }
 }
+
+    

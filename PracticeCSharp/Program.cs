@@ -8,7 +8,7 @@ namespace PracticeCSharp
     {
         static void Main(String[] args)
         {
-            /*
+            
             //variable declaration
             int num1 = 10;
             int num2 = 20;
@@ -94,9 +94,9 @@ namespace PracticeCSharp
             Assignment2.ValidatioUsingRegex regexObj = new Assignment2.ValidatioUsingRegex();
             regexObj.ValidateUsingRegex();
 
-            */
             
-            /*
+            
+        
             //creating object
             Assignment2.ErrorHandling errorObj = new Assignment2.ErrorHandling();
             
@@ -115,17 +115,18 @@ namespace PracticeCSharp
             //To Read File
             Assignment2.ReadFile fileobj=new Assignment2.ReadFile();    
             fileobj.readfile();
-            */
+                      
 
             //To sort Employees list based on salary
-            Assignment2.Employee emp=new Assignment2.Employee();
-            emp.sortEmp();
+            Assignment2.Employee empSort=new Assignment2.Employee();
+            empSort.sortEmp();
             Assignment2.EmployeeList empobj = new Assignment2.EmployeeList();
             empobj.showEmployee();
-
-
-            Assignment2.Student stdObj = new Assignment2.Student("Job",10,6);
-
+            Console.ReadLine();
+            
+            Assignment2.Student stdObj = new Assignment2.Student();
+            stdObj.StudentList();
+            
 
 
             

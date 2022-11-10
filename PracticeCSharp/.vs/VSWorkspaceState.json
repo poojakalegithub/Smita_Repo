@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\bin\\Release",
-    "\\bin\\Release\\net6.0",
-    "\\obj\\Release",
-    "\\obj\\Release\\net6.0",
-    "\\obj\\Release\\net6.0\\refint"
+    ""
   ],
-  "SelectedNode": "\\obj",
+  "SelectedNode": "\\PracticeCSharp.sln",
   "PreviewInSolutionExplorer": false
 }
