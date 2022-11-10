@@ -31,7 +31,6 @@ namespace PracticeCSharp
                     Console.WriteLine("_______________________________________________________");
                     StringObj.reverse();
 
-
                     Console.WriteLine("Q 2. Write a C# program to validate an Email ID Using Custom logic");
                     //creating object of Emailvalidation class
                     Assignments.EmailValidation emailobj = new Assignments.EmailValidation();

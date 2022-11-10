@@ -14,20 +14,21 @@ namespace PracticeCSharp.Assignments
             public Employee(string firstName, string lastName, byte age, string jobTitle, decimal salary)
                 : base(firstName, lastName, age)
             {
-                JobTitle = jobTitle;
-                Salary = salary;
-                EmployeeDetails();  
+                this.JobTitle = jobTitle;
+                this.Salary = salary;
             }
             public void EmployeeDetails()
             {
             Console.WriteLine("------------------------------------------");
+            showData();
             Console.WriteLine("Job title :", JobTitle);
             Console.WriteLine("Salary :", Salary);
-            showData();
-            
-            }
-            
-            
+            Console.WriteLine("------------------------------------------");
+
+
         }
+
+
+    }
     }
 

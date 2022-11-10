@@ -9,7 +9,6 @@ namespace PracticeCSharp.Assignments
 {
     internal class Person
     {
-
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
@@ -20,9 +19,9 @@ namespace PracticeCSharp.Assignments
 
         public Person(string firstName, string lastName, byte age)
         {
-            FirstName = firstName;
-            LastName = lastName;
-            Age = age;
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.Age = age;
         }
         
         //Method to show data from person class
@@ -30,8 +29,11 @@ namespace PracticeCSharp.Assignments
         {
             Console.WriteLine("Employee Details..!");
             Console.WriteLine("------------------------------------------");
-           Console.WriteLine("Full Name : " + FullName);
-            Console.WriteLine("Age : "+Age);
+            Console.WriteLine("Employee Name:"+FirstName);
+            Console.WriteLine("Employee LastName:"+LastName);
+            Console.WriteLine("Employee Age:"+Age);
+            
+
             return;
             
         }
