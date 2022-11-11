@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smita.pradhan\\source\\repos\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\smita.pradhan\\source\\repos\\Smita_Repo\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smita.pradhan\\source\\repos\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\smita.pradhan\\source\\repos\\Smita_Repo\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smita.pradhan\\source\\repos\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\smita.pradhan\\source\\repos\\Smita_Repo\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\smita.pradhan\\source\\repos\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\smita.pradhan\\source\\repos\\Smita_Repo\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\smita.pradhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smita.pradhan\\source\\repos\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\smita.pradhan\\source\\repos\\Smita_Repo\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\smita.pradhan\\AppData\\Roaming\\NuGet\\NuGet.Config",

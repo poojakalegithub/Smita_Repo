@@ -31,7 +31,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
@@ -44,11 +43,10 @@
             this.button14 = new System.Windows.Forms.Button();
             this.button15 = new System.Windows.Forms.Button();
             this.button16 = new System.Windows.Forms.Button();
-            this.button18 = new System.Windows.Forms.Button();
             this.button20 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox_Result = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
+            this.labelCurrentOperation = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -84,17 +82,6 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button_click);
             // 
-            // button4
-            // 
-            this.button4.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button4.Location = new System.Drawing.Point(232, 135);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(60, 45);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "CE";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
             // button5
             // 
             this.button5.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -120,9 +107,9 @@
             // button7
             // 
             this.button7.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button7.Location = new System.Drawing.Point(232, 186);
+            this.button7.Location = new System.Drawing.Point(232, 135);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(60, 45);
+            this.button7.Size = new System.Drawing.Size(60, 96);
             this.button7.TabIndex = 8;
             this.button7.Text = "C";
             this.button7.UseVisualStyleBackColor = true;
@@ -181,6 +168,7 @@
             this.button12.TabIndex = 13;
             this.button12.Text = "=";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // button13
             // 
@@ -226,22 +214,12 @@
             this.button16.UseVisualStyleBackColor = true;
             this.button16.Click += new System.EventHandler(this.operator_click);
             // 
-            // button18
-            // 
-            this.button18.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.button18.Location = new System.Drawing.Point(127, 288);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(45, 45);
-            this.button18.TabIndex = 17;
-            this.button18.Text = ".";
-            this.button18.UseVisualStyleBackColor = true;
-            // 
             // button20
             // 
             this.button20.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button20.Location = new System.Drawing.Point(25, 288);
             this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(96, 45);
+            this.button20.Size = new System.Drawing.Size(147, 45);
             this.button20.TabIndex = 15;
             this.button20.Text = "0";
             this.button20.UseVisualStyleBackColor = true;
@@ -269,26 +247,25 @@
             this.textBox_Result.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.textBox_Result.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // label2
+            // labelCurrentOperation
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe UI Black", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(25, 31);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(131, 38);
-            this.label2.TabIndex = 22;
-            this.label2.Text = "Number";
+            this.labelCurrentOperation.AutoSize = true;
+            this.labelCurrentOperation.Font = new System.Drawing.Font("Segoe UI Black", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.labelCurrentOperation.Location = new System.Drawing.Point(25, 31);
+            this.labelCurrentOperation.Name = "labelCurrentOperation";
+            this.labelCurrentOperation.Size = new System.Drawing.Size(0, 38);
+            this.labelCurrentOperation.TabIndex = 22;
+            this.labelCurrentOperation.Click += new System.EventHandler(this.label2_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(304, 450);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.labelCurrentOperation);
             this.Controls.Add(this.textBox_Result);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button16);
-            this.Controls.Add(this.button18);
             this.Controls.Add(this.button20);
             this.Controls.Add(this.button11);
             this.Controls.Add(this.button12);
@@ -301,7 +278,6 @@
             this.Controls.Add(this.button9);
             this.Controls.Add(this.button10);
             this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -321,7 +297,6 @@
         private Button button1;
         private Button button2;
         private Button button3;
-        private Button button4;
         private Button button5;
         private Button button6;
         private Button button7;
@@ -334,10 +309,9 @@
         private Button button14;
         private Button button15;
         private Button button16;
-        private Button button18;
         private Button button20;
         private Label label1;
         private TextBox textBox_Result;
-        private Label label2;
+        private Label labelCurrentOperation;
     }
 }

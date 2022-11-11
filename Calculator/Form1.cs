@@ -4,6 +4,8 @@ namespace Calculator
     {
         Double resultValue=0;
         String operationPerformed="";
+        bool isOperationPerformed = false;
+
         public Form1()
         {
             InitializeComponent();
@@ -26,9 +28,11 @@ namespace Calculator
 
         private void button_click(object sender, EventArgs e)
         {
-            
-                
+            if ((textBox_Result.Text == "0") || (isOperationPerformed))
+                textBox_Result.Clear();
 
+
+            isOperationPerformed = false;
             Button button = (Button)sender;
             textBox_Result.Text = textBox_Result.Text + button.Text;
         }
@@ -37,7 +41,9 @@ namespace Calculator
         {
             Button button = (Button)sender;
             operationPerformed=button.Text;
-            resultValue=Double.Parse(textBox_Result.Text);  
+            resultValue=Double.Parse(textBox_Result.Text);
+            labelCurrentOperation.Text = resultValue + " " + operationPerformed;
+            isOperationPerformed = true;
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -49,6 +55,33 @@ namespace Calculator
         {
             textBox_Result.Text = "0";
             resultValue = 0;    
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            switch(operationPerformed)
+            {
+                case "+":
+                    textBox_Result.Text = (resultValue + Double.Parse(textBox_Result.Text)).ToString();
+                break;
+                case "-":
+                    textBox_Result.Text = (resultValue - Double.Parse(textBox_Result.Text)).ToString();
+                    break;
+                case "*":
+                    textBox_Result.Text = (resultValue * Double.Parse(textBox_Result.Text)).ToString();
+                    break;
+                case "/":
+                    textBox_Result.Text = (resultValue / Double.Parse(textBox_Result.Text)).ToString();
+                    break;
+                default:
+                    break;
+
+            }
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
