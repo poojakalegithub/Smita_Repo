@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CalcFramework",
+    "\\CalculatorWebAppCore",
+    "\\CalculatorWebAppCore\\Pages",
+    "\\CalculatorWebAppCore\\wwwroot",
+    "\\CalculatorWebAppCore\\wwwroot\\js"
   ],
-  "SelectedNode": "\\CalculatorWebAppFramework.sln",
+  "SelectedNode": "\\CalculatorWebAppCore\\wwwroot\\js\\site.js",
   "PreviewInSolutionExplorer": false
 }
