@@ -1,0 +1,16 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleFrameworkCalculator\bin\Debug\ConsoleFrameworkCalculator.exe.config
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleFrameworkCalculator\bin\Debug\ConsoleFrameworkCalculator.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleFrameworkCalculator\bin\Debug\ConsoleFrameworkCalculator.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.pdb
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleFrameworkCalculator\bin\Debug\ConsoleFrameworkCalculator.exe.config
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleFrameworkCalculator\bin\Debug\ConsoleFrameworkCalculator.exe
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleFrameworkCalculator\bin\Debug\ConsoleFrameworkCalculator.pdb
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.exe
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleFrameworkCalculator\obj\Debug\ConsoleFrameworkCalculator.pdb
