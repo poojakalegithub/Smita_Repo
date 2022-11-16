@@ -137,7 +137,7 @@ namespace PracticeCSharp
                     Console.WriteLine("To sort Employees list based on salary");
                     //To sort Employees list based on salary
                     Assignment2.Employee empSort = new Assignment2.Employee();
-                    empSort.sortEmp();
+                    empSort.sortEmployee();
 
                     Console.WriteLine("5. Write a C# Program to sort a list of employees based on salary in descending order and whose department is XYZ \r\n");
                     Assignment2.EmployeeList empobj = new Assignment2.EmployeeList();

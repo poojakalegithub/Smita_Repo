@@ -15,9 +15,9 @@ namespace PracticeCSharp.Assignments
         String Country=Console.ReadLine();  
 
         //to convert user input into upper case
-        String res=Country.ToUpper();
+        String CountryName=Country.ToUpper();
 
-            switch (res)
+            switch (CountryName)
             {
                 case "INDIA":
                     Console.WriteLine("You have selected :"+countries.INDIA);

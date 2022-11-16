@@ -19,7 +19,7 @@ namespace PracticeCSharp.Assignment2
             return ID + " " + Name + " " + Salary + " " + Department;
         }
 
-        public void sortEmp()
+        public void sortEmployee()
         {
             List<Employee> employees = new List<Employee>()
         {

@@ -24,6 +24,7 @@ namespace PracticeCSharp.Assignments
         //Method to compare two Strings
         public void compareStrings()
         {
+            //Using Equals Method
             Console.WriteLine("Compairing Strings using Equals() method :");
             bool res2 = firstName.Equals(lastName);
             if (res2 == true)
@@ -33,7 +34,19 @@ namespace PracticeCSharp.Assignments
             else
             {
                 Console.WriteLine("Strings are NOT equal");
-            }   
+            }
+
+            //Using compare Method
+            Console.WriteLine("Compairing Strings using compare() method :");
+            int result = string.Compare(firstName,lastName);
+            if (result == 1)
+            {
+                Console.WriteLine("Both Strings are equal");
+            }
+            else
+            {
+                Console.WriteLine("Strings are NOT equal");
+            }
 
         }
 
