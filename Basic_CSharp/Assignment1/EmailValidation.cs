@@ -9,16 +9,16 @@ namespace PracticeCSharp.Assignments
 {
     internal class EmailValidation
     {
-    string email1 = "Smitanpradhan33@gmail.com";
+    string email = "Smitanpradhan33@gmail.com";
     public void validateEmail()
         {
-            if (email1.Contains('@') == true && email1.EndsWith(".com") == true)
+            if (email.Contains('@') == true && email.EndsWith(".com") == true || email.EndsWith(".in") == true || email.EndsWith(".org") == true) 
             {
-                Console.WriteLine(email1 + " is validated");
+                Console.WriteLine(email + " is validated");
             }
             else
             {
-                Console.WriteLine(email1 + " is not validated");
+                Console.WriteLine(email + " is not validated");
             }
         }
     
