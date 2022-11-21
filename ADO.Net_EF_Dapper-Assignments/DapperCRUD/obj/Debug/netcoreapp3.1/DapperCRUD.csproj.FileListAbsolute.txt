@@ -1,0 +1,54 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.runtimeconfig.json
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.runtimeconfig.dev.json
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\staticwebassets\DapperCRUD.StaticWebAssets.Manifest.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.csproj.CopyComplete
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\DAPPER\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.genruntimeconfig.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.exe
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.deps.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.runtimeconfig.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.runtimeconfig.dev.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.AssemblyInfo.cs
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\staticwebassets\DapperCRUD.StaticWebAssets.Manifest.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.csproj.CopyComplete
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.genruntimeconfig.cache

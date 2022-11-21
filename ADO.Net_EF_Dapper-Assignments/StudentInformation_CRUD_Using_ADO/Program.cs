@@ -1,6 +1,6 @@
 ﻿using System.Data.SqlClient;
 using System.Xml.Linq;
-internal class Program
+class Program
 {
     private static void Main(string[] args)
     {
@@ -21,10 +21,10 @@ internal class Program
                 case 1:
                     //Insert data
                     Console.WriteLine("Enter Student name");
-                    String student_Name = Console.ReadLine();
+                    string student_Name = Console.ReadLine();
 
                     Console.WriteLine("Enter Student Age");
-                    String student_Age = Console.ReadLine();
+                    string student_Age = Console.ReadLine();
 
                     string insertQuery = "insert into Student_Details(student_name,student_Age) values('" + student_Name + "'," + student_Age + ")";
                     SqlCommand insertCommand = new SqlCommand(insertQuery, sqlConnection);
@@ -35,7 +35,7 @@ internal class Program
                 case 2:
 
                     //Retrive Data
-                    String displayQuery = "SELECT * FROM Student_Details";
+                    string displayQuery = "SELECT * FROM Student_Details";
                     SqlCommand viewCommand = new SqlCommand(displayQuery, sqlConnection);
                     SqlDataReader dataReader = viewCommand.ExecuteReader();
                    
@@ -58,7 +58,7 @@ internal class Program
                     id = int.Parse(Console.ReadLine());
                     Console.WriteLine("Enter age of student to update");
                     age = int.Parse(Console.ReadLine());
-                    String updateQuery = "UPDATE Student_Details SET student_Age = '" + age + "' WHERE ID = " + id + "";
+                    string updateQuery = "UPDATE Student_Details SET student_Age = '" + age + "' WHERE ID = " + id + "";
                     SqlCommand updateCommand = new SqlCommand(updateQuery, sqlConnection);
                     updateCommand.ExecuteNonQuery();
                     break;
@@ -69,7 +69,7 @@ internal class Program
                     int idToDelete;
                     Console.WriteLine("Enter id that you like to Delete");
                     idToDelete = int.Parse(Console.ReadLine());
-                    String deleteQuery = "DELETE FROM Student_Details WHERE ID = " + idToDelete + "";
+                    string deleteQuery = "DELETE FROM Student_Details WHERE ID = " + idToDelete + "";
                     SqlCommand deleteCommand = new SqlCommand(deleteQuery, sqlConnection);
                     deleteCommand.ExecuteNonQuery();
                     Console.WriteLine("Successfully deleted");
@@ -79,7 +79,7 @@ internal class Program
                     break;
             }
             Console.WriteLine("Do you want to continue? Enter No to exit");
-             answer = Console.ReadLine();
+            answer = Console.ReadLine();
         }while(answer != "No");
                
         }
