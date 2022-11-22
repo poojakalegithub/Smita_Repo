@@ -38,12 +38,14 @@ class Program
                     string displayQuery = "SELECT * FROM Student_Details";
                     SqlCommand viewCommand = new SqlCommand(displayQuery, sqlConnection);
                     SqlDataReader dataReader = viewCommand.ExecuteReader();
-                   
+                    Console.WriteLine("Id--------Name--------Age");
+                    
                     while (dataReader.Read())
                     {
-                        Console.WriteLine("ID: " + dataReader.GetValue(0).ToString());
-                        Console.WriteLine("Name: " + dataReader.GetValue(1).ToString());
-                        Console.WriteLine("Age: " + dataReader.GetValue(2).ToString());
+                            Console.Write(dataReader.GetValue(0).ToString()+"        ");
+                            Console.Write(dataReader.GetValue(1).ToString() + "        ");
+                            Console.Write(dataReader.GetValue(2).ToString() + "        ");
+                            Console.WriteLine("\n");
                     }
                     dataReader.Close();
                     break;

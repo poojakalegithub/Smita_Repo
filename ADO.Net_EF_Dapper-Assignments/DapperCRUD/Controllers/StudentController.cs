@@ -29,7 +29,6 @@ namespace DapperCRUD.Controllers
             return Ok(_studentrepo.Create(student));
         }
 
-
         [HttpPut]
         public IActionResult Put(Student student, int StudId)
         {
