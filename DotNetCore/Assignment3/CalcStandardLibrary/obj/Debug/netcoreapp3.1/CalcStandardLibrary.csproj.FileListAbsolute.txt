@@ -1,0 +1,10 @@
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\bin\Debug\netcoreapp3.1\CalcStandardLibrary.deps.json
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\bin\Debug\netcoreapp3.1\CalcStandardLibrary.dll
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\bin\Debug\netcoreapp3.1\CalcStandardLibrary.pdb
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\obj\Debug\netcoreapp3.1\CalcStandardLibrary.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\obj\Debug\netcoreapp3.1\CalcStandardLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\obj\Debug\netcoreapp3.1\CalcStandardLibrary.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\obj\Debug\netcoreapp3.1\CalcStandardLibrary.AssemblyInfo.cs
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\obj\Debug\netcoreapp3.1\CalcStandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\obj\Debug\netcoreapp3.1\CalcStandardLibrary.dll
+C:\Users\smita.pradhan\source\repos\CalcStandardLibrary\obj\Debug\netcoreapp3.1\CalcStandardLibrary.pdb

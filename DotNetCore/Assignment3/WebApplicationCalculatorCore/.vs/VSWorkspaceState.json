@@ -6,6 +6,6 @@
     "\\Views",
     "\\Views\\Home"
   ],
-  "SelectedNode": "\\WebApplicationCalculator.sln",
+  "SelectedNode": "\\Controllers\\HomeController.cs",
   "PreviewInSolutionExplorer": false
 }

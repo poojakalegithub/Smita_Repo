@@ -10,6 +10,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\smita.pradhan\source\repos\Smita_Repo\DotNetAssignment4\CalculatorStandardLibrary\bin\Debug\net6.0\CalculatorStandardLibrary.dll" target="lib\net6.0\CalculatorStandardLibrary.dll" />
+    <file src="C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorStandardLibrary\bin\Debug\net6.0\CalculatorStandardLibrary.dll" target="lib\net6.0\CalculatorStandardLibrary.dll" />
   </files>
 </package>

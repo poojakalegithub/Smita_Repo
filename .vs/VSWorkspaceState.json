@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DotNetCore",
+    "\\DotNetCore\\Assignment4",
+    "\\DotNetCore\\Assignment4\\CalculatorMinimulAPI",
+    "\\DotNetCore\\Assignment4\\CalculatorStandardLibrary"
   ],
-  "SelectedNode": "\\C:\\Users\\smita.pradhan\\Desktop\\DotNetCore",
   "PreviewInSolutionExplorer": false
 }

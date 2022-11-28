@@ -6,6 +6,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using WebApplicationCalculator.Models;
+using CalcStandardLibrary;
 
 namespace WebApplicationCalculator.Controllers
 {
@@ -26,21 +27,24 @@ namespace WebApplicationCalculator.Controllers
         [HttpPost]
         public IActionResult Index(Calculator calc)
         {
+            CalcStandardLibrary.CalcOperations calculations=new CalcStandardLibrary.CalcOperations();
+
             int num1 = calc.value1;
             int num2= calc.value2;
             switch (calc.calculate)
             {
                 case "add":
-                    calc.result = num1 + num2;
+                    
+                    calc.result = calculations.Add(num1,num2);
                     break;
                 case "sub":
-                    calc.result = num1 - num2;
+                    calc.result = calculations.Substract(num1, num2);
                     break;
                 case "Multiply":
-                    calc.result = num1 * num2;
+                    calc.result = calculations.Multiply(num1,num2);
                     break;
                 case "Divide":
-                    calc.result = num1 / num2;
+                    calc.result = calculations.Divide(num1,num2);
                     break;
                 default:
                     calc.result = 0;

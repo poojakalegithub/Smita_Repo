@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CalculatorMinimulAPI",
+    "\\CalculatorStandardLibrary"
   ],
+  "SelectedNode": "\\CalculatorStandardLibrary\\CalculatorStandardLibrary.sln",
   "PreviewInSolutionExplorer": false
 }
