@@ -1,0 +1,12 @@
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\CalculatorMinimulAPI.exe
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\CalculatorMinimulAPI.dll
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\CalculatorMinimulAPI.deps.json
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\CalculatorMinimulAPI.runtimeconfig.json
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\CalculatorMinimulAPI.pdb
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\CalculatorStandardLibrary.dll
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\smita.pradhan\Desktop\DotNetCore\DotNetCore\Assignment4\CalculatorMinimulAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

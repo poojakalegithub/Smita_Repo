@@ -1,0 +1,28 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.runtimeconfig.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.runtimeconfig.dev.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.genruntimeconfig.cache
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.exe
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.deps.json
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.runtimeconfig.json
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.runtimeconfig.dev.json
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.dll
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\bin\Debug\netcoreapp3.1\ConsoleCoreCalculator.pdb
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.AssemblyInfo.cs
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.dll
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.pdb
+C:\Users\smita.pradhan\source\repos\Assignment1\ConsoleCoreCalculator\obj\Debug\netcoreapp3.1\ConsoleCoreCalculator.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\bin\Debug\CalcFramework.exe.config
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\bin\Debug\CalcFramework.exe
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\bin\Debug\CalcFramework.pdb
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\obj\Debug\CalcFramework.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\obj\Debug\CalcFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\obj\Debug\CalcFramework.Form1.resources
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\obj\Debug\CalcFramework.Properties.Resources.resources
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\obj\Debug\CalcFramework.csproj.GenerateResource.cache
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\obj\Debug\CalcFramework.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\obj\Debug\CalcFramework.exe
+C:\Users\smita.pradhan\source\repos\Smita_Repo\CalcFramework\obj\Debug\CalcFramework.pdb
