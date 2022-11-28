@@ -31,9 +31,7 @@ namespace PracticeCSharp.Assignment2
              new Employee {ID=6,   Name="Niya"    , Salary=1000,Department="ABC"},
         };
 
-
             var result = employees.Where(employee => employee.Department == "XYZ").OrderByDescending(salary => salary.Salary);
-
 
             Console.WriteLine("ID  Name  Salary  Department");
             Console.WriteLine("------------------------------");
