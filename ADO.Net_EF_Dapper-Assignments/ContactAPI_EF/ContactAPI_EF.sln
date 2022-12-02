@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAPI_EF", "ContactAPI_EF.csproj", "{241AFDDB-C19F-4645-A422-89CF5E67721A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactAPI_EF", "ContactAPI_EF.csproj", "{241AFDDB-C19F-4645-A422-89CF5E67721A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{EC2724D9-B806-41D5-A904-A8EF3764BB39}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{2966345A-4642-4B6A-9166-FE5ED8824E2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +22,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{241AFDDB-C19F-4645-A422-89CF5E67721A} = {EC2724D9-B806-41D5-A904-A8EF3764BB39}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FCADA0DA-BBC6-4AD4-B7C7-07DDCDF7294B}

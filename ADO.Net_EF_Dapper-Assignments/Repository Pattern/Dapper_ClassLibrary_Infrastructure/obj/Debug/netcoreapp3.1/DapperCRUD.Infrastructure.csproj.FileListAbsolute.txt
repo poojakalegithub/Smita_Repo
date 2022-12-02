@@ -1,0 +1,26 @@
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.deps.json
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.dll
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.pdb
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.dll
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.pdb
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.AssemblyInfo.cs
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.csproj.CopyComplete
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.dll
+C:\Users\smita.pradhan\Desktop\trial\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.deps.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.AssemblyInfo.cs
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.csproj.CopyComplete
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\Dapper_ClassLibrary_Infrastructure\obj\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.pdb

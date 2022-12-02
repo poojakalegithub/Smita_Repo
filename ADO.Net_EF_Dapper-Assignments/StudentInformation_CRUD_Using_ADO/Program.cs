@@ -1,15 +1,18 @@
-﻿using System.Data.SqlClient;
+﻿using StudentInformation_CRUD_Using_ADO;
+using System.Data.SqlClient;
 using System.Xml.Linq;
 class Program
 {
     private static void Main(string[] args)
     {
+        var logger = new Logger();
         SqlConnection sqlConnection;
         string connectionString = @"Data Source=PUN-NB-LE3B6L9\MSSQLSERVER01;Initial Catalog=Students;Integrated Security=True";
         sqlConnection = new SqlConnection(connectionString);
         sqlConnection.Open();
         try
-        { 
+        {  
+            logger.Log("Connection created");
             string answer;
             Console.WriteLine("Connection Established");
             do { 
@@ -52,7 +55,7 @@ class Program
 
                 case 3:
 
-                    //Update student_Age by using Id
+                    //Update student_Age by Id
 
                     int id;
                     int age;
@@ -67,7 +70,7 @@ class Program
 
                 case 4:
 
-                    //delete data by using Id
+                    //delete data by Id
                     int idToDelete;
                     Console.WriteLine("Enter id that you like to Delete");
                     idToDelete = int.Parse(Console.ReadLine());
@@ -91,6 +94,7 @@ class Program
         }
         finally
         {
+            logger.Log("Connection closed");
             sqlConnection.Close();
         }
     }

@@ -4,27 +4,37 @@
     using ContactAPI_EF.Models;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.EntityFrameworkCore;
+    using Serilog;
+    using Serilog.Core;
 
     [ApiController]
     [Route("api/[controller]")]
     public class ContactsController : Controller
     {
-        private readonly ContactsAPIDbContext dbContext;
+        private readonly ILogger<WeatherForecastController> _logger;
 
+        public ContactsController(ILogger<WeatherForecastController> logger)
+        {
+            _logger = logger;
+        }
+        private readonly ContactsAPIDbContext dbContext;
         public ContactsController(ContactsAPIDbContext dbContext)
         {
             this.dbContext = dbContext;
         }
+
         [HttpGet]
         public async Task<IActionResult> GetContacts()
-        { 
+        {
+            _logger.LogInformation("Get Method");
             return Ok(await dbContext.Contacts.ToListAsync());
         }
 
         [HttpGet]
         [Route("{id:guid}")]
-        public async Task<IActionResult> GetContact([FromRoute] Guid id)
-        {  
+        public async Task<IActionResult> GetContactById([FromRoute] Guid id)
+        {
+            _logger.LogInformation("Get contact by Id Method");
             var contact = await dbContext.Contacts.FindAsync(id);
             if(contact == null)
             {
@@ -36,6 +46,7 @@
         [HttpPost]
         public async Task<IActionResult> AddContact(AddContactRequest addContactRequest)
         {
+            _logger.LogInformation(" Add Contact Method");
             var contact = new Contact()
             {
                 Id=Guid.NewGuid(),
@@ -54,8 +65,8 @@
         [Route("{id:guid}")]
         public async Task<ActionResult> UpdateContact([FromRoute] Guid id, UpdateContactRequest updateContactRequest)
         {
+            _logger.LogInformation("Update Method");
             var contact = dbContext.Contacts.Find(id);
-
             if (contact != null)
             {
                 contact.FullName = updateContactRequest.FullName;
@@ -73,8 +84,8 @@
         [Route("{id:guid}")]
         public async Task<IActionResult> DeleteContact([FromRoute] Guid id)
         {
+            _logger.LogInformation("Delete Method");
             var contact = await dbContext.Contacts.FindAsync(id);
-
             if (contact != null)
             {
                 dbContext.Contacts.Remove(contact);

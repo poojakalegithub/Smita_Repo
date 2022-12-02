@@ -1,0 +1,20 @@
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.deps.json
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.pdb
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.AssemblyInfo.cs
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.deps.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.AssemblyInfo.cs
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD_ClassLibrary_Domain\obj\Debug\netcoreapp3.1\DapperCRUD.Domain.pdb

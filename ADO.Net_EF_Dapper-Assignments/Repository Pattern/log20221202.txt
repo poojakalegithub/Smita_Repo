@@ -1,0 +1,357 @@
+2022-12-02 09:25:02.557 +05:30  INF  Application is starting
+2022-12-02 09:25:05.218 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 09:25:05.226 +05:30  INF  Hosting environment: Development
+2022-12-02 09:25:05.236 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 09:25:05.276 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 09:25:05.381 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 09:25:05.473 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 09:25:05.485 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 09:25:05.567 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 86.8108ms
+2022-12-02 09:25:05.569 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 09:25:05.578 +05:30  INF  Request finished in 307.3271ms 200 application/json; charset=utf-8
+2022-12-02 09:25:05.732 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/favicon.ico  
+2022-12-02 09:25:05.738 +05:30  INF  Request finished in 5.5051ms 404 
+2022-12-02 12:45:44.394 +05:30  INF  Application is starting
+2022-12-02 12:45:45.561 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 12:45:45.568 +05:30  INF  Hosting environment: Development
+2022-12-02 12:45:45.568 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 12:45:45.588 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 12:45:45.649 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 12:45:45.691 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 12:45:45.697 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 12:45:45.736 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 38.7638ms
+2022-12-02 12:45:45.737 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 12:45:45.741 +05:30  INF  Request finished in 157.6853ms 200 application/json; charset=utf-8
+2022-12-02 12:45:45.785 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/favicon.ico  
+2022-12-02 12:45:45.788 +05:30  INF  Request finished in 3.0284ms 404 
+2022-12-02 14:04:50.697 +05:30  INF  Application is starting
+2022-12-02 14:04:51.707 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 14:04:51.710 +05:30  INF  Hosting environment: Development
+2022-12-02 14:04:51.711 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 14:04:51.724 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 14:04:51.780 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:04:51.829 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 14:04:51.835 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 14:04:51.872 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 38.1347ms
+2022-12-02 14:04:51.873 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:04:51.877 +05:30  INF  Request finished in 157.4176ms 200 application/json; charset=utf-8
+2022-12-02 14:16:00.466 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:44360/api/Student/GetStudents  
+2022-12-02 14:16:00.468 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:16:00.474 +05:30  INF  Route matched with {action = "GetStudents", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetStudents() on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:16:00.475 +05:30  INF  Fetch student details
+2022-12-02 14:16:00.837 +05:30  INF  Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DapperCRUD_ClassLibrary_Domain.Models.Student, DapperCRUD.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-02 14:16:00.845 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller) in 369.9465ms
+2022-12-02 14:16:00.845 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:16:00.849 +05:30  INF  Request finished in 383.2516ms 200 application/json; charset=utf-8
+2022-12-02 14:16:18.676 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent application/json 63
+2022-12-02 14:16:18.678 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:16:18.688 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:16:18.705 +05:30  INF  Add student details
+2022-12-02 14:16:18.959 +05:30  INF  Executing ObjectResult, writing value of type 'System.Data.SqlClient.SqlException'.
+2022-12-02 14:16:19.010 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 321.6907ms
+2022-12-02 14:16:19.010 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:16:19.013 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2022-12-02 14:16:19.080 +05:30  INF  Request finished in 404.6309ms 500 text/plain
+2022-12-02 14:19:11.245 +05:30  INF  Application is starting
+2022-12-02 14:19:12.243 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 14:19:12.246 +05:30  INF  Hosting environment: Development
+2022-12-02 14:19:12.246 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 14:19:12.260 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 14:19:12.328 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:19:12.366 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 14:19:12.373 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 14:19:12.408 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 37.8378ms
+2022-12-02 14:19:12.410 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:19:12.414 +05:30  INF  Request finished in 157.9933ms 200 application/json; charset=utf-8
+2022-12-02 14:19:16.922 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:44360/api/Student/GetStudents  
+2022-12-02 14:19:16.924 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:19:16.925 +05:30  INF  Route matched with {action = "GetStudents", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetStudents() on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:19:16.926 +05:30  INF  Fetch student details
+2022-12-02 14:19:17.210 +05:30  INF  Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DapperCRUD_ClassLibrary_Domain.Models.Student, DapperCRUD.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-02 14:19:17.215 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller) in 289.8463ms
+2022-12-02 14:19:17.216 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:19:17.216 +05:30  INF  Request finished in 293.596ms 200 application/json; charset=utf-8
+2022-12-02 14:19:37.803 +05:30  INF  Request starting HTTP/1.1 PUT https://localhost:44360/api/Student/UpdateStudents?studId=9 application/json 85
+2022-12-02 14:19:37.807 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.UpdateStudents (DapperCRUD.Controller)'
+2022-12-02 14:19:37.816 +05:30  INF  Route matched with {action = "UpdateStudents", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateStudents(DapperCRUD_ClassLibrary_Domain.Models.Student, Int32) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:19:37.839 +05:30  INF  Update student details
+2022-12-02 14:19:37.893 +05:30  INF  Executing ObjectResult, writing value of type 'System.Int32'.
+2022-12-02 14:19:37.893 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.UpdateStudents (DapperCRUD.Controller) in 77.7784ms
+2022-12-02 14:19:37.894 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.UpdateStudents (DapperCRUD.Controller)'
+2022-12-02 14:19:37.894 +05:30  INF  Request finished in 93.7581ms 200 application/json; charset=utf-8
+2022-12-02 14:20:22.200 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent application/json 65
+2022-12-02 14:20:22.202 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:20:22.206 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:20:22.208 +05:30  INF  Add student details
+2022-12-02 14:20:22.412 +05:30  INF  Executing ObjectResult, writing value of type 'System.Data.SqlClient.SqlException'.
+2022-12-02 14:20:22.461 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 255.2191ms
+2022-12-02 14:20:22.462 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:20:22.465 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2022-12-02 14:20:22.526 +05:30  INF  Request finished in 328.7243ms 500 text/plain
+2022-12-02 14:22:26.041 +05:30  INF  Application is starting
+2022-12-02 14:22:26.990 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 14:22:26.993 +05:30  INF  Hosting environment: Development
+2022-12-02 14:22:26.994 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 14:22:27.010 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 14:22:27.073 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:22:27.110 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 14:22:27.116 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 14:22:27.152 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 35.7472ms
+2022-12-02 14:22:27.154 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:22:27.159 +05:30  INF  Request finished in 153.1446ms 200 application/json; charset=utf-8
+2022-12-02 14:22:31.072 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent application/json 65
+2022-12-02 14:22:31.074 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:22:31.084 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:22:31.106 +05:30  INF  Add student details
+2022-12-02 14:22:31.559 +05:30  INF  Executing ObjectResult, writing value of type 'System.Data.SqlClient.SqlException'.
+2022-12-02 14:22:31.610 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 525.4427ms
+2022-12-02 14:22:31.611 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:22:31.613 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2022-12-02 14:22:31.670 +05:30  INF  Request finished in 599.3665ms 500 text/plain
+2022-12-02 14:26:24.253 +05:30  INF  Application is starting
+2022-12-02 14:26:25.652 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 14:26:25.657 +05:30  INF  Hosting environment: Development
+2022-12-02 14:26:25.658 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 14:26:25.688 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 14:26:25.776 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:26:25.851 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 14:26:25.862 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 14:26:25.960 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 93.6548ms
+2022-12-02 14:26:25.963 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:26:25.972 +05:30  INF  Request finished in 290.5724ms 200 application/json; charset=utf-8
+2022-12-02 14:26:55.944 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent application/json 65
+2022-12-02 14:26:55.946 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:26:55.970 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:26:55.994 +05:30  INF  Add student details
+2022-12-02 14:26:56.686 +05:30  INF  Executing ObjectResult, writing value of type 'System.Data.SqlClient.SqlException'.
+2022-12-02 14:26:56.772 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 801.9306ms
+2022-12-02 14:26:56.773 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:26:56.776 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2022-12-02 14:26:56.933 +05:30  INF  Request finished in 996.5105ms 500 text/plain
+2022-12-02 14:27:09.064 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent text/plain 65
+2022-12-02 14:27:09.068 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:27:09.071 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:27:09.081 +05:30  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-12-02 14:27:09.085 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 13.0266ms
+2022-12-02 14:27:09.086 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:27:09.086 +05:30  INF  Request finished in 22.8981ms 415 application/problem+json; charset=utf-8
+2022-12-02 14:27:17.032 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent application/xml 65
+2022-12-02 14:27:17.032 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:27:17.033 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:27:17.042 +05:30  INF  Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-12-02 14:27:17.043 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 9.3688ms
+2022-12-02 14:27:17.044 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:27:17.044 +05:30  INF  Request finished in 12.5089ms 415 application/problem+json; charset=utf-8
+2022-12-02 14:27:21.377 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent application/json 65
+2022-12-02 14:27:21.378 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:27:21.379 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:27:21.381 +05:30  INF  Add student details
+2022-12-02 14:27:21.497 +05:30  INF  Executing ObjectResult, writing value of type 'System.Data.SqlClient.SqlException'.
+2022-12-02 14:27:21.499 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 120.1175ms
+2022-12-02 14:27:21.500 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:27:21.500 +05:30  ERR  An unhandled exception has occurred while executing the request.System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+2022-12-02 14:27:21.503 +05:30  INF  Request finished in 126.1103ms 500 text/plain
+2022-12-02 14:32:09.436 +05:30  INF  Application is starting
+2022-12-02 14:32:10.916 +05:30  INF  User profile is available. Using 'C:\Users\smita.pradhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-02 14:32:11.392 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 14:32:11.392 +05:30  INF  Hosting environment: Development
+2022-12-02 14:32:11.392 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 14:32:11.437 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 14:32:11.518 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:32:11.579 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 14:32:11.589 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 14:32:11.821 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 235.518ms
+2022-12-02 14:32:11.823 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:32:11.839 +05:30  INF  Request finished in 410.0932ms 200 application/json; charset=utf-8
+2022-12-02 14:32:26.664 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent application/json 65
+2022-12-02 14:32:26.668 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:32:26.684 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:32:26.767 +05:30  INF  Add student details
+2022-12-02 14:32:27.392 +05:30  INF  Executing ObjectResult, writing value of type 'System.Data.SqlClient.SqlException'.
+2022-12-02 14:32:27.509 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 824.3181ms
+2022-12-02 14:32:27.509 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:32:27.510 +05:30  INF  Request finished in 849.4669ms 400 application/json; charset=utf-8
+2022-12-02 14:32:49.595 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent application/json 65
+2022-12-02 14:32:49.598 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:32:49.599 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:32:49.607 +05:30  INF  Add student details
+2022-12-02 14:32:49.709 +05:30  INF  Executing ObjectResult, writing value of type 'System.Data.SqlClient.SqlException'.
+2022-12-02 14:32:49.710 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 111.3052ms
+2022-12-02 14:32:49.710 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:32:49.711 +05:30  INF  Request finished in 118.3595ms 400 application/json; charset=utf-8
+2022-12-02 14:34:53.976 +05:30  INF  Application is starting
+2022-12-02 14:34:55.229 +05:30  INF  User profile is available. Using 'C:\Users\smita.pradhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-02 14:34:55.576 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 14:34:55.577 +05:30  INF  Hosting environment: Development
+2022-12-02 14:34:55.577 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 14:34:55.613 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 14:34:55.684 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:34:55.722 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 14:34:55.729 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 14:34:55.948 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 208.4638ms
+2022-12-02 14:34:55.957 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:34:55.964 +05:30  INF  Request finished in 354.2627ms 200 application/json; charset=utf-8
+2022-12-02 14:34:59.457 +05:30  INF  Request starting HTTP/1.1 POST https://localhost:44360/api/Student/AddStudent application/json 65
+2022-12-02 14:34:59.459 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:34:59.474 +05:30  INF  Route matched with {action = "AddStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddStudent(DapperCRUD_ClassLibrary_Domain.Models.Student) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:34:59.540 +05:30  INF  Add student details
+2022-12-02 14:34:59.866 +05:30  INF  Executing ObjectResult, writing value of type 'System.Int32'.
+2022-12-02 14:34:59.868 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller) in 394.0188ms
+2022-12-02 14:34:59.868 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.AddStudent (DapperCRUD.Controller)'
+2022-12-02 14:34:59.868 +05:30  INF  Request finished in 413.76ms 200 application/json; charset=utf-8
+2022-12-02 14:35:05.039 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:44360/api/Student/GetStudents  
+2022-12-02 14:35:05.042 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:35:05.047 +05:30  INF  Route matched with {action = "GetStudents", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetStudents() on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:35:05.048 +05:30  INF  Fetch student details
+2022-12-02 14:35:05.100 +05:30  INF  Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DapperCRUD_ClassLibrary_Domain.Models.Student, DapperCRUD.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-02 14:35:05.109 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller) in 61.9967ms
+2022-12-02 14:35:05.109 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:35:05.110 +05:30  INF  Request finished in 71.3606ms 200 application/json; charset=utf-8
+2022-12-02 14:50:19.912 +05:30  INF  Application is starting
+2022-12-02 14:50:21.974 +05:30  INF  User profile is available. Using 'C:\Users\smita.pradhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-02 14:50:22.519 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 14:50:22.520 +05:30  INF  Hosting environment: Development
+2022-12-02 14:50:22.520 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 14:50:22.566 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 14:50:22.676 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:50:22.724 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 14:50:22.731 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 14:50:22.957 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 226.51ms
+2022-12-02 14:50:22.959 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 14:50:22.965 +05:30  INF  Request finished in 405.5287ms 200 application/json; charset=utf-8
+2022-12-02 14:50:36.402 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:44360/api/Student/GetStudents  
+2022-12-02 14:50:36.404 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:50:36.408 +05:30  INF  Route matched with {action = "GetStudents", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetStudents() on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:50:36.410 +05:30  INF  Fetch student details
+2022-12-02 14:50:36.825 +05:30  INF  Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DapperCRUD_ClassLibrary_Domain.Models.Student, DapperCRUD.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-02 14:50:36.836 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller) in 427.8852ms
+2022-12-02 14:50:36.836 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:50:36.837 +05:30  INF  Request finished in 435.6661ms 200 application/json; charset=utf-8
+2022-12-02 14:50:51.466 +05:30  INF  Request starting HTTP/1.1 PUT https://localhost:44360/api/Student/UpdateStudents?studId=9 application/json 85
+2022-12-02 14:50:51.482 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.UpdateStudents (DapperCRUD.Controller)'
+2022-12-02 14:50:51.508 +05:30  INF  Route matched with {action = "UpdateStudents", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult UpdateStudents(DapperCRUD_ClassLibrary_Domain.Models.Student, Int32) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:50:51.609 +05:30  INF  Update student details
+2022-12-02 14:50:51.690 +05:30  INF  Executing ObjectResult, writing value of type 'System.Int32'.
+2022-12-02 14:50:51.692 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.UpdateStudents (DapperCRUD.Controller) in 183.8823ms
+2022-12-02 14:50:51.692 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.UpdateStudents (DapperCRUD.Controller)'
+2022-12-02 14:50:51.692 +05:30  INF  Request finished in 229.9577ms 200 application/json; charset=utf-8
+2022-12-02 14:50:55.576 +05:30  INF  Request starting HTTP/1.1 GET https://localhost:44360/api/Student/GetStudents  
+2022-12-02 14:50:55.578 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:50:55.579 +05:30  INF  Route matched with {action = "GetStudents", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetStudents() on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:50:55.582 +05:30  INF  Fetch student details
+2022-12-02 14:50:55.589 +05:30  INF  Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[DapperCRUD_ClassLibrary_Domain.Models.Student, DapperCRUD.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2022-12-02 14:50:55.591 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller) in 10.8612ms
+2022-12-02 14:50:55.591 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.GetStudents (DapperCRUD.Controller)'
+2022-12-02 14:50:55.591 +05:30  INF  Request finished in 15.2436ms 200 application/json; charset=utf-8
+2022-12-02 14:51:04.979 +05:30  INF  Request starting HTTP/1.1 DELETE https://localhost:44360/api/Student/DeleteStudent/?studId=6  
+2022-12-02 14:51:04.980 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.StudentController.DeleteStudent (DapperCRUD.Controller)'
+2022-12-02 14:51:04.988 +05:30  INF  Route matched with {action = "DeleteStudent", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult DeleteStudent(Int32) on controller DapperCRUD.Controllers.StudentController (DapperCRUD.Controller).
+2022-12-02 14:51:04.990 +05:30  INF  Delete student details
+2022-12-02 14:51:04.995 +05:30  INF  Executing ObjectResult, writing value of type 'System.Int32'.
+2022-12-02 14:51:04.996 +05:30  INF  Executed action DapperCRUD.Controllers.StudentController.DeleteStudent (DapperCRUD.Controller) in 7.3531ms
+2022-12-02 14:51:04.996 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.StudentController.DeleteStudent (DapperCRUD.Controller)'
+2022-12-02 14:51:04.996 +05:30  INF  Request finished in 17.4503ms 200 application/json; charset=utf-8
+2022-12-02 16:05:57.319 +05:30  INF  Application is starting
+2022-12-02 16:05:58.579 +05:30  INF  User profile is available. Using 'C:\Users\smita.pradhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-02 16:05:59.446 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 16:05:59.446 +05:30  INF  Hosting environment: Development
+2022-12-02 16:05:59.446 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 16:05:59.552 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 16:05:59.678 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 16:05:59.732 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 16:05:59.740 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 16:06:00.022 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 281.5209ms
+2022-12-02 16:06:00.025 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 16:06:00.031 +05:30  INF  Request finished in 485.2781ms 200 application/json; charset=utf-8
+2022-12-02 16:07:37.101 +05:30  INF  Application is starting
+2022-12-02 16:07:41.012 +05:30  INF  User profile is available. Using 'C:\Users\smita.pradhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-12-02 16:07:41.505 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2022-12-02 16:07:41.505 +05:30  INF  Hosting environment: Development
+2022-12-02 16:07:41.506 +05:30  INF  Content root path: C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD
+2022-12-02 16:07:41.549 +05:30  INF  Request starting HTTP/2.0 GET https://localhost:44360/WeatherForecast  
+2022-12-02 16:07:41.626 +05:30  INF  Executing endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 16:07:41.687 +05:30  INF  Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[DapperCRUD.WeatherForecast] Get() on controller DapperCRUD.Controllers.WeatherForecastController (DapperCRUD.Controller).
+2022-12-02 16:07:41.694 +05:30  INF  Executing ObjectResult, writing value of type 'DapperCRUD.WeatherForecast[]'.
+2022-12-02 16:07:41.928 +05:30  INF  Executed action DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller) in 233.2561ms
+2022-12-02 16:07:41.932 +05:30  INF  Executed endpoint 'DapperCRUD.Controllers.WeatherForecastController.Get (DapperCRUD.Controller)'
+2022-12-02 16:07:41.938 +05:30  INF  Request finished in 395.6047ms 200 application/json; charset=utf-8
