@@ -16,7 +16,6 @@ namespace DapperAPICRUD_TestProject.DapperAPICRUD_TestProject.controller
         private readonly Mock<IStudent> _studentRepo;
         private readonly Fixture _fixture;
         private StudentController _StudentController;
-
         public StudentControllerTest()
         {
             _fixture = new Fixture();
@@ -31,8 +30,7 @@ namespace DapperAPICRUD_TestProject.DapperAPICRUD_TestProject.controller
             _StudentController = new StudentController(_studentRepo.Object);
             var result = _StudentController.GetStudents();
             var obj = result as ObjectResult;
-            Assert.Equal(200, obj.StatusCode);
-           
+            Assert.Equal(200, obj.StatusCode);          
         }
 
         [Fact]
@@ -68,78 +66,6 @@ namespace DapperAPICRUD_TestProject.DapperAPICRUD_TestProject.controller
             var result = _StudentController.DeleteStudent(StudId);
             var obj = result as ObjectResult;
             Assert.Equal(200, obj.StatusCode);
-        }
-
-        //[Fact]
-        //public void DeleteStudentDetails()
-        //{
-
-        ////Arrange
-        //var studentService = new Mock<IStudent>();
-        //var sut = new StudentController(studentService.Object);
-        //int StudId = 11;
-        //// Act
-        //var result = sut.DeleteStudent(StudId);
-
-        //// Assert
-        //result.GetType().Should().Be(typeof(OkObjectResult));
-        //(result as OkObjectResult).StatusCode.Should().Be(200);
-        //}
-
-
-        //[Fact]
-        //public void AddStudentDetails_ShouldAddStudentsInDatabase()
-        //{
-        //    //Arrange         
-        //    var studentService = new Mock<IStudent>();
-        //    studentService.Setup(_ => _.AddStudent(_studentController)).Returns(It.IsAny<int>());
-        //    var sut = new StudentController(studentService.Object);
-
-        //    // Act
-        //    var result = sut.AddStudent(_studentController);
-
-        //    // Assert
-        //    result.GetType().Should().Be(typeof(OkObjectResult));
-        //    (result as OkObjectResult).StatusCode.Should().Be(200);
-        //}
-
-
-        //[Fact]
-        //public void GetStudentDetails_shouldReturnEmptyList()
-        //{
-        //    //Arrange
-        //    var studentService = new Mock<IStudent>();
-        //    studentService.Setup(_ => _.GetStudents()).Returns(StudentMock.EmptyStudentsList());
-        //    var sut = new StudentController(studentService.Object);
-
-        //    // Act
-        //    var result = sut.GetStudents();
-
-        //    // Assert
-        //    result.GetType().Should().Be(typeof(OkObjectResult));
-        //    (result as OkObjectResult).StatusCode.Should().Be(200);
-        //}
-
-        //[Fact]
-        //public void GetStudentDetails_ShouldResturnOk()
-        //{
-
-
-        ////Arrange
-        //var studentService = new Mock<IStudent>();
-        //studentService.Setup(_ => _.GetStudents()).Returns(StudentMock.GetStudents());
-        //var sut = new StudentController(studentService.Object);
-
-        //// Act
-        //var result = sut.GetStudents();
-
-        //// Assert
-        //result.GetType().Should().Be(typeof(OkObjectResult));
-        //(result as OkObjectResult).StatusCode.Should().Be(200);
-        //}
-        //craete helper
-        //Student student=call method from helper
-        //mock repo
-        //then write return id, while passing student object.
+        }     
     }
 }

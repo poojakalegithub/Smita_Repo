@@ -146,3 +146,6 @@ C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignment
 C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperAPICRUD_TestProject\obj\Debug\netcoreapp3.1\DapperAPICRUD_Tests.dll
 C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperAPICRUD_TestProject\obj\Debug\netcoreapp3.1\DapperAPICRUD_Tests.pdb
 C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperAPICRUD_TestProject\obj\Debug\netcoreapp3.1\DapperAPICRUD_Tests.genruntimeconfig.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperAPICRUD_TestProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperAPICRUD_TestProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperAPICRUD_TestProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
