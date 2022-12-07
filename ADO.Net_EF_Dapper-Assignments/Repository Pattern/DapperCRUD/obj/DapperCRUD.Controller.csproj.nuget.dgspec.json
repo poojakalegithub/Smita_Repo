@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD\\DapperCRUD.Controller.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD\\DapperCRUD.Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD\\DapperCRUD.Controller.csproj",
+        "projectName": "DapperCRUD.Controller",
+        "projectPath": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD\\DapperCRUD.Controller.csproj",
+        "packagesPath": "C:\\Users\\smita.pradhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\smita.pradhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\Dapper_ClassLibrary_Infrastructure\\DapperCRUD.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\Dapper_ClassLibrary_Infrastructure\\DapperCRUD.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD_ClassLibrary_Domain\\DapperCRUD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD_ClassLibrary_Domain\\DapperCRUD.Domain.csproj",
+        "projectName": "DapperCRUD.Domain",
+        "projectPath": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD_ClassLibrary_Domain\\DapperCRUD.Domain.csproj",
+        "packagesPath": "C:\\Users\\smita.pradhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD_ClassLibrary_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\smita.pradhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\Dapper_ClassLibrary_Infrastructure\\DapperCRUD.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\Dapper_ClassLibrary_Infrastructure\\DapperCRUD.Infrastructure.csproj",
+        "projectName": "DapperCRUD.Infrastructure",
+        "projectPath": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\Dapper_ClassLibrary_Infrastructure\\DapperCRUD.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\smita.pradhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\Dapper_ClassLibrary_Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\smita.pradhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD_ClassLibrary_Domain\\DapperCRUD.Domain.csproj": {
+                "projectPath": "C:\\Users\\smita.pradhan\\Desktop\\DatabaseConnectivity\\ADO.Net_EF_Dapper-Assignments\\Repository Pattern\\DapperCRUD_ClassLibrary_Domain\\DapperCRUD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

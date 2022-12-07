@@ -1,0 +1,132 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\appsettings.json
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\APISecurity.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\APISecurity.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\APISecurity.runtimeconfig.json
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\APISecurity.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\APISecurity.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\scopedcss\bundle\APISecurity.styles.css
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.csproj.CopyComplete
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\refint\APISecurity.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\APISecurity.genruntimeconfig.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\obj\Debug\net6.0\ref\APISecurity.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\Dapper.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\WebAPISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\appsettings.json
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\APISecurity.exe
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\APISecurity.deps.json
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\APISecurity.runtimeconfig.json
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\APISecurity.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\APISecurity.pdb
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Dapper.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.AssemblyInfo.cs
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\scopedcss\bundle\APISecurity.styles.css
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.csproj.CopyComplete
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\refint\APISecurity.dll
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.pdb
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\APISecurity.genruntimeconfig.cache
+C:\Users\smita.pradhan\Downloads\APISecurity\APISecurity\obj\Debug\net6.0\ref\APISecurity.dll

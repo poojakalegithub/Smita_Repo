@@ -1,0 +1,117 @@
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.exe
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.deps.json
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.runtimeconfig.json
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.runtimeconfig.dev.json
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.pdb
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.pdb
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.pdb
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.AssemblyInfo.cs
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\staticwebassets\DapperCRUD.Controller.StaticWebAssets.Manifest.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.RazorTargetAssemblyInfo.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.csproj.CopyComplete
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.pdb
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.genruntimeconfig.cache
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\smita.pradhan\Desktop\trial\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.exe
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.deps.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.runtimeconfig.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.runtimeconfig.dev.json
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Controller.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Infrastructure.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\DapperCRUD.Domain.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.csproj.AssemblyReference.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.AssemblyInfoInputs.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.AssemblyInfo.cs
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.csproj.CoreCompileInputs.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\staticwebassets\DapperCRUD.Controller.StaticWebAssets.Manifest.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.RazorTargetAssemblyInfo.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.csproj.CopyComplete
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.pdb
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\obj\Debug\netcoreapp3.1\DapperCRUD.Controller.genruntimeconfig.cache
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\smita.pradhan\Desktop\DatabaseConnectivity\ADO.Net_EF_Dapper-Assignments\Repository Pattern\DapperCRUD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
