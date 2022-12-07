@@ -8,6 +8,7 @@
     using DapperCRUD_ClassLibrary_Domain.Models;
     using DapperCRUD.Domain;
     using DapperCRUD.Domain.Interface;
+    using DapperCRUD.Domain.Models;
 
     //Class to implement methods from IStudent interface
     public class StudentRepo : IStudent
@@ -28,6 +29,17 @@
             connetion.Open();
             var results = connetion.Query<Student>("spGetStudentDeatils");
             return results.ToList();
+        }
+
+        //Method to Add Student details with subjects
+        public IEnumerable<Subjects> GetStudentSubjectDetails()
+        {
+            var sql = "select SubjectID,SubjectName, p.StudId from Student p inner join Subjects c on p.StudId = c.StudId";
+            //var sql = "SELECT * FROM Subjects";
+            using var connection = new SqlConnection(_connectionString);
+            connection.Open();
+            var result=connection.Query<Subjects>(sql);
+            return result.ToList();
         }
 
         //Method to Add Student details

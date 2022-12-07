@@ -2,6 +2,7 @@
 namespace DapperCRUD.Controllers
 {
     using DapperCRUD.Domain.Interface;
+    using DapperCRUD.Domain.Models;
     using DapperCRUD_ClassLibrary_Domain.Models;
     using Microsoft.AspNetCore.Mvc;
     using Serilog;
@@ -17,7 +18,7 @@ namespace DapperCRUD.Controllers
         {
             _studentrepo = student;
         }
-        
+       
         [HttpGet]
         [Route("GetStudents")]
         public IActionResult GetStudents()
@@ -101,8 +102,8 @@ namespace DapperCRUD.Controllers
             catch(Exception e)
             {
                 return BadRequest(e.Message);
-            }
-            
-        }
+            }           
+        }       
+       
     }
 }

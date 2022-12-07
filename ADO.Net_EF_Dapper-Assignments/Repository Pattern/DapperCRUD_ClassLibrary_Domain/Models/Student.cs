@@ -1,4 +1,6 @@
-﻿namespace DapperCRUD_ClassLibrary_Domain.Models
+﻿using DapperCRUD.Domain.Models;
+
+namespace DapperCRUD_ClassLibrary_Domain.Models
 {
    public class Student
     {
@@ -6,5 +8,6 @@
         public string Name { get; set; }
         public int Age { get; set; }
         public string Address { get; set; }
+        
     }
 }

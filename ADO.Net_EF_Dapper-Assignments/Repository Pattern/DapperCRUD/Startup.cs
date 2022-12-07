@@ -13,6 +13,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DapperCRUD.Domain.Interface;
+using DapperCRUD.Domain.Interfaces;
+using DapperCRUD.Infrastructure.Repository;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace DapperCRUD
 {
@@ -30,6 +35,7 @@ namespace DapperCRUD
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IStudent, StudentRepo>();
+            services.AddScoped<ISubjects, SubjectsRepo>();
             services.AddControllers();
             services.AddControllersWithViews()
                 .AddNewtonsoftJson(options =>
